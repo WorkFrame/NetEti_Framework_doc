@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<topic id="8c48786f-b1f8-4e66-80c3-fb3d5ad2400b" revisionNumber="1">
+	<developerConceptualDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<introduction>
+			<para>
+        Version 1.0.0.0 (Stand: 17.03.2010)
+			</para>
+		</introduction>
+
+		<section>
+			<title>Änderungen in dieser Version</title>
+			<content>
+
+				<list class="bullet">
+					<listItem>
+						<para>Neu erstellt.</para>
+					</listItem>
+
+				</list>
+
+			</content>
+		</section>
+
+		<relatedTopics>
+			<link xlink:href="32a10bcf-b776-4758-aab2-b797c3a29a48" />
+		</relatedTopics>
+
+	</developerConceptualDocument>
+</topic>

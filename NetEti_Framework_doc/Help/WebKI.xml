@@ -1,0 +1,1212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Abort Methode">
+    <HelpKINode Title="Threader.Abort Methode " Url="html/ff72484c-aa64-5268-e783-039b1dc8c5bd.htm" />
+    <HelpKINode Title="ZipAccess.Abort Methode " Url="html/adca2137-30cd-20d8-2df7-dd19038fd729.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AbortAll Methode" Url="html/b0399ff6-8c94-a504-7673-3adb24c659b8.htm" />
+  <HelpKINode Title="AbortAllWithThreadAbortException Methode" Url="html/d9367d8b-aedb-f156-7161-ee8c7d9da62f.htm" />
+  <HelpKINode Title="AbortPending Eigenschaft" Url="html/7dcb10dc-a2a9-99b9-6617-5e1b15546e13.htm" />
+  <HelpKINode Title="AbortWithThreadAbortException Methode" Url="html/96b7d81a-df3e-de26-276c-828a81bb2627.htm" />
+  <HelpKINode Title="All Feld" Url="html/ab33142b-7b89-563e-a533-773768dfb530.htm" />
+  <HelpKINode Title="AppConfigUser Eigenschaft" Url="html/218c23dd-dd66-0423-6f04-99f60183c8a6.htm" />
+  <HelpKINode Title="AppConfigUserInfo Eigenschaft" Url="html/75bc320d-d2d1-dc60-8d32-fc78d6109bb3.htm" />
+  <HelpKINode Title="AppConfigUserLoaded Eigenschaft" Url="html/e78c272a-7731-889c-a1a4-3d3bfe5ca7ff.htm" />
+  <HelpKINode Title="AppEnvAccessor Eigenschaft" Url="html/715013a0-0740-fa4b-8ba7-95db305a91e6.htm" />
+  <HelpKINode Title="AppEnvReader Klasse">
+    <HelpKINode Title="AppEnvReader Klasse" Url="html/5f342195-e474-d201-cb51-8a2e578ee7c5.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/f6601611-746e-bb06-4fb2-05c7a3d1eef0.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/0e04c3ef-9cf9-78cb-7125-c9531bec97b4.htm" />
+    <HelpKINode Title="Methoden" Url="html/585d6720-5e28-4d72-b070-eba5a7a98c9a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AppEnvReader.AppEnvReader Konstruktor" Url="html/0e04c3ef-9cf9-78cb-7125-c9531bec97b4.htm" />
+  <HelpKINode Title="AppEnvReader.Description Eigenschaft" Url="html/845b4cd1-bf38-6d9f-b93c-ff376059746e.htm" />
+  <HelpKINode Title="AppEnvReader.GetParametersSources Methode" Url="html/bc40f910-d66e-44c9-7b39-ff31c3e098f1.htm" />
+  <HelpKINode Title="AppEnvReader.GetStringValue Methode" Url="html/a1a9242c-26fd-123a-4cfd-b4982a106346.htm" />
+  <HelpKINode Title="AppEnvReader.GetStringValues Methode" Url="html/6455a940-1aef-bced-b7b8-2b9aa6d0edee.htm" />
+  <HelpKINode Title="AppEnvReader.GetValue(Of T) Methode" Url="html/751d9722-401c-bfd5-5d68-b7b19a1bc240.htm" />
+  <HelpKINode Title="AppEnvReader.GetValue&lt;T&gt; Methode" Url="html/751d9722-401c-bfd5-5d68-b7b19a1bc240.htm" />
+  <HelpKINode Title="AppEnvReader.GetValues(Of T) Methode" Url="html/2e9d53ec-bc52-2555-861e-e2c501ce37be.htm" />
+  <HelpKINode Title="AppEnvReader.GetValues&lt;T&gt; Methode" Url="html/2e9d53ec-bc52-2555-861e-e2c501ce37be.htm" />
+  <HelpKINode Title="AppEnvReader.IsDefault Methode" Url="html/96eee7f3-b57f-2ef6-776d-87d09e08a6d6.htm" />
+  <HelpKINode Title="AppEnvReader.RegisterKeyValue Methode" Url="html/4770afff-0629-9623-efad-719cee25618e.htm" />
+  <HelpKINode Title="AppEnvReader.RegisterStringValueGetter Methode" Url="html/e9ad741c-722e-4a35-6366-173824b2a9bf.htm" />
+  <HelpKINode Title="AppEnvReader.RegisterStringValueGetterAt Methode" Url="html/88611a39-e8d4-0d84-e49d-01309c352737.htm" />
+  <HelpKINode Title="AppEnvReader.RegisterStringValueGetterBefore Methode" Url="html/fcb2fdbc-f054-1141-c1d8-215eb5428d28.htm" />
+  <HelpKINode Title="AppEnvReader.UnregisterKey Methode" Url="html/01810d56-4080-16bc-137b-7f2157fc585b.htm" />
+  <HelpKINode Title="AppEnvReader.UnregisterStringValueGetter Methode" Url="html/6e61cd67-dd30-d93c-c078-eb4ea406b505.htm" />
+  <HelpKINode Title="ApplicationName Eigenschaft" Url="html/1f581418-009e-78a7-38c5-68881c952681.htm" />
+  <HelpKINode Title="ApplicationRootPath Eigenschaft" Url="html/bcf6f694-cf8a-108b-9f03-f24b0307b743.htm" />
+  <HelpKINode Title="AppSettingsRegistry Klasse">
+    <HelpKINode Title="AppSettingsRegistry Klasse" Url="html/6e79a18d-c8bd-205c-e4bc-3afd7f45a3ed.htm" />
+    <HelpKINode Title="Methoden" Url="html/b6feeeb2-a571-6ceb-a3be-0f4448de7f53.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AppSettingsRegistry.ContainsKey Methode" Url="html/048ed65c-9ba8-f067-eff4-6bcfb46f43b3.htm" />
+  <HelpKINode Title="AppSettingsRegistry.GetParametersSources Methode" Url="html/436a58d4-a361-6684-8015-7983884df637.htm" />
+  <HelpKINode Title="AppSettingsRegistry.GetValue Methode" Url="html/ec3e3fa7-a028-7f05-a263-dcee362e336c.htm" />
+  <HelpKINode Title="AppSettingsRegistry.RegisterKeyValue Methode" Url="html/418f817b-8e3c-5973-443c-9d03ef82f759.htm" />
+  <HelpKINode Title="AppSettingsRegistry.RememberParameterSource Methode" Url="html/08c8ecc3-9faf-ba35-614d-492cfd2be92a.htm" />
+  <HelpKINode Title="AppSettingsRegistry.UnregisterKey Methode" Url="html/59d0a28f-b55d-fa6f-8b9b-0ece56a32c7a.htm" />
+  <HelpKINode Title="AssemblyLoader Klasse">
+    <HelpKINode Title="AssemblyLoader Klasse" Url="html/66bccca0-832e-77f7-e901-8e65fdf1c191.htm" />
+    <HelpKINode Title="Methoden" Url="html/48677593-4ee8-8fc9-caa0-3b7997b28fb9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssemblyLoader.DynamicLoadAssembly Methode" Url="html/fb15633b-429c-a926-114b-8aa054f361cc.htm" />
+  <HelpKINode Title="AssemblyLoader.DynamicLoadObjectOfTypeFromAssembly Methode" Url="html/f977310d-22d4-ca37-1ce6-13a862f02df9.htm" />
+  <HelpKINode Title="AssemblyLoader.GetAssemblyLoader Methode" Url="html/ecdf0023-e807-1f33-bd06-789352966625.htm" />
+  <HelpKINode Title="AssemblyLoader.GetLoadedAssemblies Methode" Url="html/b9c96207-7c8b-0d65-6c2d-2416cab1f884.htm" />
+  <HelpKINode Title="Average Feld" Url="html/d61af817-e5ef-d83e-eeb8-d7c8f090a496.htm" />
+  <HelpKINode Title="BasicAppSettings Klasse">
+    <HelpKINode Title="BasicAppSettings Klasse" Url="html/b2ded4c5-8f7f-e150-9ed8-77a7029ce8c2.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/12f9fb11-956c-9bd8-733b-cda342796914.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/a4cb7cba-5830-b7cb-38a0-7f9db0a2ccd6.htm" />
+    <HelpKINode Title="Methoden" Url="html/fcd61df9-2203-9740-5a7d-315f67c4bdc9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BasicAppSettings.AppConfigUser Eigenschaft" Url="html/218c23dd-dd66-0423-6f04-99f60183c8a6.htm" />
+  <HelpKINode Title="BasicAppSettings.AppConfigUserInfo Eigenschaft" Url="html/75bc320d-d2d1-dc60-8d32-fc78d6109bb3.htm" />
+  <HelpKINode Title="BasicAppSettings.AppConfigUserLoaded Eigenschaft" Url="html/e78c272a-7731-889c-a1a4-3d3bfe5ca7ff.htm" />
+  <HelpKINode Title="BasicAppSettings.AppEnvAccessor Eigenschaft" Url="html/715013a0-0740-fa4b-8ba7-95db305a91e6.htm" />
+  <HelpKINode Title="BasicAppSettings.ApplicationName Eigenschaft" Url="html/1f581418-009e-78a7-38c5-68881c952681.htm" />
+  <HelpKINode Title="BasicAppSettings.ApplicationRootPath Eigenschaft" Url="html/bcf6f694-cf8a-108b-9f03-f24b0307b743.htm" />
+  <HelpKINode Title="BasicAppSettings.BasicAppSettings Konstruktor" Url="html/a4cb7cba-5830-b7cb-38a0-7f9db0a2ccd6.htm" />
+  <HelpKINode Title="BasicAppSettings.BreakAlwaysAllowed Eigenschaft" Url="html/f05454c1-c26f-1172-bfe8-685319037a23.htm" />
+  <HelpKINode Title="BasicAppSettings.CheckVersion Eigenschaft" Url="html/da0f1699-db9c-3b1f-b8bd-ccf4baec21e8.htm" />
+  <HelpKINode Title="BasicAppSettings.ClickOnceDataDirectory Eigenschaft" Url="html/fc295763-9bee-201d-7273-e993c0dd1b3c.htm" />
+  <HelpKINode Title="BasicAppSettings.CommandLineAccessor Eigenschaft" Url="html/a45e2169-866f-0035-caaa-5948aaf6a87b.htm" />
+  <HelpKINode Title="BasicAppSettings.ConnectionString Eigenschaft" Url="html/a5293caa-4746-446b-c765-139564695a63.htm" />
+  <HelpKINode Title="BasicAppSettings.CreatedDirectoryRoot Eigenschaft" Url="html/5205a873-a498-ae37-142f-b9e4813c807c.htm" />
+  <HelpKINode Title="BasicAppSettings.CreateWorkingDirectoryIfNotExists Eigenschaft" Url="html/557d9cb7-0825-aa8f-9f10-2cbb8a9be54a.htm" />
+  <HelpKINode Title="BasicAppSettings.DataSource Eigenschaft" Url="html/c320fbce-8e27-afe4-25a1-ec9d198fd1cd.htm" />
+  <HelpKINode Title="BasicAppSettings.DebugArchiveMaxCount Eigenschaft" Url="html/6e0aafaa-36ac-a359-ce89-17b95b8f2895.htm" />
+  <HelpKINode Title="BasicAppSettings.DebugArchivingInterval Eigenschaft" Url="html/c696f04b-d369-e7fe-55c3-1d4c04c003ad.htm" />
+  <HelpKINode Title="BasicAppSettings.DebugFile Eigenschaft" Url="html/71590b42-6f01-cc3c-4092-e729b4a8b13c.htm" />
+  <HelpKINode Title="BasicAppSettings.DebugFileRegexFilter Eigenschaft" Url="html/2e8fe8e6-2e55-04c3-c7ea-c474df5b7d02.htm" />
+  <HelpKINode Title="BasicAppSettings.DebugInfo Eigenschaft" Url="html/7f7189bb-8fda-353f-cb86-b99aab26eabb.htm" />
+  <HelpKINode Title="BasicAppSettings.DebugMode Eigenschaft" Url="html/b49cf10b-5e78-773c-7dc5-f4091a22b4cb.htm" />
+  <HelpKINode Title="BasicAppSettings.DefaultDatabase Eigenschaft" Url="html/6e8f7bfe-054f-809a-6749-cecce0f63e06.htm" />
+  <HelpKINode Title="BasicAppSettings.DefaultSqlDataDirectory Eigenschaft" Url="html/8d1b7ace-d35f-c097-7f70-d4e374c06829.htm" />
+  <HelpKINode Title="BasicAppSettings.DefaultSqlLogDirectory Eigenschaft" Url="html/2c8dc6ed-f46c-3875-74bf-b33de20dfea7.htm" />
+  <HelpKINode Title="BasicAppSettings.Description Eigenschaft" Url="html/c2414e26-f8ce-08a1-286b-936f40d9e5c4.htm" />
+  <HelpKINode Title="BasicAppSettings.DirectoryCreate Methode" Url="html/ce68cf7d-2611-829b-9f75-45e68240e2c8.htm" />
+  <HelpKINode Title="BasicAppSettings.Dispose Methode" Url="html/67462bcb-9ead-eec7-947e-ee3f4ea7c059.htm" />
+  <HelpKINode Title="BasicAppSettings.DumpAppSettings Eigenschaft" Url="html/0f5ba247-0bb4-86c9-07de-902f34073cb4.htm" />
+  <HelpKINode Title="BasicAppSettings.DumpLoadedAssemblies Eigenschaft" Url="html/a4f57c1a-176c-141b-896b-02f90a4d6b32.htm" />
+  <HelpKINode Title="BasicAppSettings.EnvAccessor Eigenschaft" Url="html/e0989138-174e-b81d-ebe0-165b8a9021c4.htm" />
+  <HelpKINode Title="BasicAppSettings.Finalize Methode" Url="html/5992da81-40a8-d6ab-f347-1d5e1d199ade.htm" />
+  <HelpKINode Title="BasicAppSettings.FrameworkVersionMajor Eigenschaft" Url="html/858a2d10-59be-0c3b-12a7-555558f080d9.htm" />
+  <HelpKINode Title="BasicAppSettings.GetLoadedAssemblies Methode" Url="html/8be24ab2-242a-7a84-aa87-2c62815816ca.htm" />
+  <HelpKINode Title="BasicAppSettings.GetParametersSources Methode" Url="html/97be9cd5-6cbc-c518-eda8-1f7f4157e05c.htm" />
+  <HelpKINode Title="BasicAppSettings.GetStringValue Methode" Url="html/1a84e787-42cc-75f9-9f40-42a1c9d43dfa.htm" />
+  <HelpKINode Title="BasicAppSettings.GetStringValues Methode" Url="html/6f483913-4185-20f7-4e58-f81b1c506ba4.htm" />
+  <HelpKINode Title="BasicAppSettings.GetValue(Of T) Methode" Url="html/224b9f06-e7e0-d9c2-d3d7-e6ccfc2c5c0c.htm" />
+  <HelpKINode Title="BasicAppSettings.GetValue&lt;T&gt; Methode" Url="html/224b9f06-e7e0-d9c2-d3d7-e6ccfc2c5c0c.htm" />
+  <HelpKINode Title="BasicAppSettings.GetValues(Of T) Methode" Url="html/7c21df24-f614-3ee8-a63b-ff72a982a861.htm" />
+  <HelpKINode Title="BasicAppSettings.GetValues&lt;T&gt; Methode" Url="html/7c21df24-f614-3ee8-a63b-ff72a982a861.htm" />
+  <HelpKINode Title="BasicAppSettings.IsClickOnce Eigenschaft" Url="html/fb8ec910-0e9f-4f32-0e50-6b3cffd85b69.htm" />
+  <HelpKINode Title="BasicAppSettings.IsFullFramework Eigenschaft" Url="html/29d50745-1c2e-c693-1ae0-66a0bd94da6a.htm" />
+  <HelpKINode Title="BasicAppSettings.IsNetCore Eigenschaft" Url="html/0275e26a-9139-fbf1-4e9a-832f8b74957e.htm" />
+  <HelpKINode Title="BasicAppSettings.IsNetNative Eigenschaft" Url="html/721df2b1-85d0-f3f3-bea8-36630e89b938.htm" />
+  <HelpKINode Title="BasicAppSettings.KillWorkingDirectoryAtShutdown Eigenschaft" Url="html/a00bba7e-464d-63be-f037-45a241eead38.htm" />
+  <HelpKINode Title="BasicAppSettings.LoadSettings Methode" Url="html/3aa00257-0c67-eccc-ce7b-891ad7d8879c.htm" />
+  <HelpKINode Title="BasicAppSettings.LogSql Eigenschaft" Url="html/068aac7e-6dd9-4543-47e5-da8f65ff50e9.htm" />
+  <HelpKINode Title="BasicAppSettings.MachineName Eigenschaft" Url="html/42157f66-fd63-27f4-e52b-1bae73aa4f93.htm" />
+  <HelpKINode Title="BasicAppSettings.MinProgrammVersion Eigenschaft" Url="html/9802e010-c7cf-7e3c-586a-2cd64b375c06.htm" />
+  <HelpKINode Title="BasicAppSettings.OSVersion Eigenschaft" Url="html/470f61b0-3c2d-987d-7350-5c3fabd63dd2.htm" />
+  <HelpKINode Title="BasicAppSettings.OSVersionMajor Eigenschaft" Url="html/e68a4ac1-f2b3-f5c0-23c4-356b4b6b1d24.htm" />
+  <HelpKINode Title="BasicAppSettings.ProcessId Eigenschaft" Url="html/301062a4-696f-e931-afc7-cb6798b85e73.htm" />
+  <HelpKINode Title="BasicAppSettings.Processor Eigenschaft" Url="html/4c420a03-6b5e-e64c-e4b2-f61c7db59aac.htm" />
+  <HelpKINode Title="BasicAppSettings.ProcessorCount Eigenschaft" Url="html/8f7dcc51-28dd-f709-f133-ecc78befc62d.htm" />
+  <HelpKINode Title="BasicAppSettings.ProgrammVersion Eigenschaft" Url="html/1883d64e-bbb9-9a6e-fc27-eeb8a56704ad.htm" />
+  <HelpKINode Title="BasicAppSettings.RegAccessor Eigenschaft" Url="html/ecfd5398-b3f0-5f4e-5aed-62f37a7baf30.htm" />
+  <HelpKINode Title="BasicAppSettings.RegistryBasePath Eigenschaft" Url="html/73dec00c-e2fd-17ec-c331-812bb0b9a486.htm" />
+  <HelpKINode Title="BasicAppSettings.ReplaceWildcards Methode" Url="html/81a6b755-99b8-6679-7c0f-279abd05f005.htm" />
+  <HelpKINode Title="BasicAppSettings.SearchDirectory Eigenschaft" Url="html/a08ee7a0-0011-c296-48d9-2019edbb2713.htm" />
+  <HelpKINode Title="BasicAppSettings.SetDefaultSQLDirectories Methode" Url="html/3dd9cb2d-7793-6c5a-26ac-04405cf4e400.htm" />
+  <HelpKINode Title="BasicAppSettings.SetRegistryBasePath Methode" Url="html/5a7bbfaa-d19c-4b4a-9f24-e49b06457751.htm" />
+  <HelpKINode Title="BasicAppSettings.SettingsAccessor Eigenschaft" Url="html/417fa11e-718d-3e2e-245b-665726af0692.htm" />
+  <HelpKINode Title="BasicAppSettings.SingleInstance Eigenschaft" Url="html/852ff74b-4a21-66bc-a435-1863f1290eeb.htm" />
+  <HelpKINode Title="BasicAppSettings.StatisticsFile Eigenschaft" Url="html/1fb4f070-bd24-6ace-f498-65e4c2feb094.htm" />
+  <HelpKINode Title="BasicAppSettings.StatisticsFileRegexFilter Eigenschaft" Url="html/ebb9d397-3512-dca2-7875-aa9b36db4d1f.htm" />
+  <HelpKINode Title="BasicAppSettings.TempDirectory Eigenschaft" Url="html/14500942-8840-ad09-4c8c-fc6fb85c47f5.htm" />
+  <HelpKINode Title="BasicAppSettings.UserDomainName Eigenschaft" Url="html/d3195980-4c1e-e958-adc9-7bd34ccaba88.htm" />
+  <HelpKINode Title="BasicAppSettings.UserName Eigenschaft" Url="html/49e5a9b1-545d-ba82-a6c1-1c601b726fd6.htm" />
+  <HelpKINode Title="BasicAppSettings.UserSettingsAccessor Eigenschaft" Url="html/b5ed6435-9591-595b-a6cc-b75a7e57e0ed.htm" />
+  <HelpKINode Title="BasicAppSettings.WorkingDirectory Eigenschaft" Url="html/099e54a3-54b4-b096-863e-1d5bde455623.htm" />
+  <HelpKINode Title="BasicAppSettings.WorkingDirectoryCreated Eigenschaft" Url="html/66b2359e-eeba-64e5-7ccf-59823d50d57c.htm" />
+  <HelpKINode Title="Bounds Eigenschaft" Url="html/669777eb-d79b-fbdf-cf87-edebf561f977.htm" />
+  <HelpKINode Title="BreakAlwaysAllowed Eigenschaft" Url="html/f05454c1-c26f-1172-bfe8-685319037a23.htm" />
+  <HelpKINode Title="BreakTask Methode" Url="html/c3cb1b82-0d93-1b0c-24bd-1bcfa2856ace.htm" />
+  <HelpKINode Title="CanExecute Methode" Url="html/c568b687-67d2-33c6-77b7-f92c6b00b75e.htm" />
+  <HelpKINode Title="CanExecuteChanged Ereignis" Url="html/d6833ee9-4de3-a1fd-22b9-c6d83456ebc5.htm" />
+  <HelpKINode Title="Chain Methode" Url="html/1595b282-3b90-13ed-6ed3-43ef708e4a7f.htm" />
+  <HelpKINode Title="ChainWeight Eigenschaft" Url="html/8e1bccfe-c087-1dee-e67f-af617decb1b5.htm" />
+  <HelpKINode Title="ChangeInfo Eigenschaft" Url="html/6f457f8f-baed-9fa4-100c-e8fc514f85a9.htm" />
+  <HelpKINode Title="CheckVersion Eigenschaft" Url="html/da0f1699-db9c-3b1f-b8bd-ccf4baec21e8.htm" />
+  <HelpKINode Title="Children Eigenschaft" Url="html/cd6af2e5-58d3-bf0e-1657-32adf05ce1a7.htm" />
+  <HelpKINode Title="ClickOnceDataDirectory Eigenschaft" Url="html/fc295763-9bee-201d-7273-e993c0dd1b3c.htm" />
+  <HelpKINode Title="climb2Top Methode" Url="html/466a4cd4-fa9b-6633-7de1-bb087f4932db.htm" />
+  <HelpKINode Title="Collection2InfoTypeArray Methode" Url="html/f8af52a0-fbc9-652e-e209-e8472fac8be2.htm" />
+  <HelpKINode Title="CommandLineAccess Klasse">
+    <HelpKINode Title="CommandLineAccess Klasse" Url="html/02e52d67-96ea-ca99-bfcf-dc06bace6d29.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/8c0ccf16-43e1-363d-693d-3618a4366e55.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/f932ff6f-47f3-8f05-54ad-de48408067cd.htm" />
+    <HelpKINode Title="Methoden" Url="html/f2cab6ce-7c6f-14fd-6c54-d5e4bcd15702.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CommandLineAccess.CommandLineAccess Konstruktor" Url="html/f932ff6f-47f3-8f05-54ad-de48408067cd.htm" />
+  <HelpKINode Title="CommandLineAccess.Description Eigenschaft" Url="html/f0cc31dd-a631-0b75-3cb6-0c1e5523457d.htm" />
+  <HelpKINode Title="CommandLineAccess.GetStringValue Methode" Url="html/14d2ee96-10e5-a8ec-8faf-f40f71206580.htm" />
+  <HelpKINode Title="CommandLineAccess.GetStringValues Methode" Url="html/39d52a7d-8379-6eb7-4f86-742961e4bd84.htm" />
+  <HelpKINode Title="CommandLineAccessor Eigenschaft" Url="html/a45e2169-866f-0035-caaa-5948aaf6a87b.htm" />
+  <HelpKINode Title="CommonProgressChangedEventArgs Klasse">
+    <HelpKINode Title="CommonProgressChangedEventArgs Klasse" Url="html/01cc13dc-7677-646e-d9dd-228f1c99f2a6.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/7ae0a935-b8f3-7db2-b107-3a594cced59b.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/3c83deff-8189-a69b-6dcc-082541e6843e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CommonProgressChangedEventArgs.CommonProgressChangedEventArgs Konstruktor" Url="html/3c83deff-8189-a69b-6dcc-082541e6843e.htm" />
+  <HelpKINode Title="CommonProgressChangedEventArgs.CountAll Eigenschaft" Url="html/017f96c3-bd74-801a-a746-c2ca567afac5.htm" />
+  <HelpKINode Title="CommonProgressChangedEventArgs.CountSucceeded Eigenschaft" Url="html/757ccc8c-f000-e992-b415-b69c76712aaa.htm" />
+  <HelpKINode Title="CommonProgressChangedEventArgs.ItemName Eigenschaft" Url="html/0c89b2be-b609-85c5-c7f3-0c518ed48e72.htm" />
+  <HelpKINode Title="CommonProgressChangedEventArgs.ItemsType Eigenschaft" Url="html/a383c470-9412-31d1-4ce3-b25b458cff19.htm" />
+  <HelpKINode Title="CommonProgressChangedEventHandler Delegat" Url="html/3bdcc78d-bd5b-932e-dc45-74aced354bf0.htm" />
+  <HelpKINode Title="CommonProgressFinishedEventHandler Delegat" Url="html/67b85c87-4ffc-2c25-daa7-78f015d45859.htm" />
+  <HelpKINode Title="CompareVersion Methode" Url="html/9d2b080f-5074-7407-cea3-8d0b6d7ed1ce.htm" />
+  <HelpKINode Title="ConnectionString Eigenschaft" Url="html/a5293caa-4746-446b-c765-139564695a63.htm" />
+  <HelpKINode Title="ConsumeThreaderException Methode" Url="html/72ce6876-4c8f-28e3-6eed-a49c936c1205.htm" />
+  <HelpKINode Title="ContainsKey Methode" Url="html/048ed65c-9ba8-f067-eff4-6bcfb46f43b3.htm" />
+  <HelpKINode Title="ContinueTask Methode" Url="html/484a5a95-6e2f-dc39-e588-4e330b2be531.htm" />
+  <HelpKINode Title="CountAll Eigenschaft" Url="html/017f96c3-bd74-801a-a746-c2ca567afac5.htm" />
+  <HelpKINode Title="CountSucceeded Eigenschaft" Url="html/757ccc8c-f000-e992-b415-b69c76712aaa.htm" />
+  <HelpKINode Title="CreatedDirectoryRoot Eigenschaft" Url="html/5205a873-a498-ae37-142f-b9e4813c807c.htm" />
+  <HelpKINode Title="CreateWorkingDirectoryIfNotExists Eigenschaft" Url="html/557d9cb7-0825-aa8f-9f10-2cbb8a9be54a.htm" />
+  <HelpKINode Title="CurrentRegistryRoot Eigenschaft" Url="html/05df7717-9bdf-932f-4dde-22911e73b525.htm" />
+  <HelpKINode Title="CutLog Methode" Url="html/328ae33d-6dd4-84cf-1740-6bca0729f60f.htm" />
+  <HelpKINode Title="DataSource Eigenschaft" Url="html/c320fbce-8e27-afe4-25a1-ec9d198fd1cd.htm" />
+  <HelpKINode Title="Debug Enumerationsmember" Url="html/df95802a-a5eb-f85c-7e70-be764b2ce9ef.htm" />
+  <HelpKINode Title="DebugArchiveMaxCount Eigenschaft">
+    <HelpKINode Title="BasicAppSettings.DebugArchiveMaxCount Eigenschaft " Url="html/6e0aafaa-36ac-a359-ce89-17b95b8f2895.htm" />
+    <HelpKINode Title="LoggerBase.DebugArchiveMaxCount Eigenschaft " Url="html/ca560797-94e9-5dd9-3517-369cafbb43a3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DebugArchivingInterval Eigenschaft">
+    <HelpKINode Title="BasicAppSettings.DebugArchivingInterval Eigenschaft " Url="html/c696f04b-d369-e7fe-55c3-1d4c04c003ad.htm" />
+    <HelpKINode Title="LoggerBase.DebugArchivingInterval Eigenschaft " Url="html/a7cc11a5-40d2-dc86-08e9-8937020251d0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DebugFile Eigenschaft" Url="html/71590b42-6f01-cc3c-4092-e729b4a8b13c.htm" />
+  <HelpKINode Title="DebugFileRegexFilter Eigenschaft" Url="html/2e8fe8e6-2e55-04c3-c7ea-c474df5b7d02.htm" />
+  <HelpKINode Title="DebugInfo Eigenschaft" Url="html/7f7189bb-8fda-353f-cb86-b99aab26eabb.htm" />
+  <HelpKINode Title="DebugMode Eigenschaft" Url="html/b49cf10b-5e78-773c-7dc5-f4091a22b4cb.htm" />
+  <HelpKINode Title="DefaultDatabase Eigenschaft" Url="html/6e8f7bfe-054f-809a-6749-cecce0f63e06.htm" />
+  <HelpKINode Title="DefaultSqlDataDirectory Eigenschaft" Url="html/8d1b7ace-d35f-c097-7f70-d4e374c06829.htm" />
+  <HelpKINode Title="DefaultSqlLogDirectory Eigenschaft" Url="html/2c8dc6ed-f46c-3875-74bf-b33de20dfea7.htm" />
+  <HelpKINode Title="Description Eigenschaft">
+    <HelpKINode Title="AppEnvReader.Description Eigenschaft " Url="html/845b4cd1-bf38-6d9f-b93c-ff376059746e.htm" />
+    <HelpKINode Title="BasicAppSettings.Description Eigenschaft " Url="html/c2414e26-f8ce-08a1-286b-936f40d9e5c4.htm" />
+    <HelpKINode Title="CommandLineAccess.Description Eigenschaft " Url="html/f0cc31dd-a631-0b75-3cb6-0c1e5523457d.htm" />
+    <HelpKINode Title="EnvAccess.Description Eigenschaft " Url="html/909cdb6c-d2ba-4b27-3496-d88e2216e968.htm" />
+    <HelpKINode Title="IGetStringValue.Description Eigenschaft " Url="html/a49838cc-3c35-c6e7-1900-a5753fff918d.htm" />
+    <HelpKINode Title="IniAccess.Description Eigenschaft " Url="html/e5049d36-564a-bbd4-ee95-df95ec9694cd.htm" />
+    <HelpKINode Title="PropertyAccess.Description Eigenschaft " Url="html/4c69bae6-d2b8-0111-d5fd-2e3634af942a.htm" />
+    <HelpKINode Title="RegAccess.Description Eigenschaft " Url="html/b8714621-9bd9-b0a3-bb23-8ad299bd8d38.htm" />
+    <HelpKINode Title="SettingsAccess.Description Eigenschaft " Url="html/fc2c890c-2fe3-d4bf-b9e5-bcb4c88d11c9.htm" />
+    <HelpKINode Title="XmlAccess.Description Eigenschaft " Url="html/f85f704b-1568-06c6-20b4-9dd8be34dc95.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeserializeObject Methode" Url="html/ef731ed1-d4fb-bb08-37ef-5feffd9a7752.htm" />
+  <HelpKINode Title="DeserializeObjectFromBase64 Methode" Url="html/aca2957c-f4c3-7b61-07d5-545e8d0d73b6.htm" />
+  <HelpKINode Title="DictionaryThreadSafeCopy(Of T, U) Klasse">
+    <HelpKINode Title="DictionaryThreadSafeCopy(T, U) Klasse" Url="html/32841378-72f5-0ab0-2442-3bda517b572e.htm" />
+    <HelpKINode Title="Methoden" Url="html/b0c38296-70ca-75a8-e12b-4b4e0b5e49ca.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DictionaryThreadSafeCopy(Of T, U).GetDictionaryKeysThreadSafeCopy Methode" Url="html/c8a30fd0-b52f-c625-8540-60a15b3e8e58.htm" />
+  <HelpKINode Title="DictionaryThreadSafeCopy(Of T, U).GetDictionaryThreadSafeCopy Methode" Url="html/640580b3-15bb-ef6c-d730-cdbd6bda4218.htm" />
+  <HelpKINode Title="DictionaryThreadSafeCopy(Of T, U).GetDictionaryValuesThreadSafeCopy Methode" Url="html/ccb8552b-427b-07cb-a199-5ecb7a88a859.htm" />
+  <HelpKINode Title="DictionaryThreadSafeCopy&lt;T, U&gt; Klasse">
+    <HelpKINode Title="DictionaryThreadSafeCopy(T, U) Klasse" Url="html/32841378-72f5-0ab0-2442-3bda517b572e.htm" />
+    <HelpKINode Title="Methoden" Url="html/b0c38296-70ca-75a8-e12b-4b4e0b5e49ca.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DictionaryThreadSafeCopy&lt;T, U&gt;.GetDictionaryKeysThreadSafeCopy Methode" Url="html/c8a30fd0-b52f-c625-8540-60a15b3e8e58.htm" />
+  <HelpKINode Title="DictionaryThreadSafeCopy&lt;T, U&gt;.GetDictionaryThreadSafeCopy Methode" Url="html/640580b3-15bb-ef6c-d730-cdbd6bda4218.htm" />
+  <HelpKINode Title="DictionaryThreadSafeCopy&lt;T, U&gt;.GetDictionaryValuesThreadSafeCopy Methode" Url="html/ccb8552b-427b-07cb-a199-5ecb7a88a859.htm" />
+  <HelpKINode Title="DirectoryCreate Methode" Url="html/ce68cf7d-2611-829b-9f75-45e68240e2c8.htm" />
+  <HelpKINode Title="Dispatcher Feld" Url="html/9f5fb61f-9489-6185-4713-f0dd08e8cbd7.htm" />
+  <HelpKINode Title="Dispose Methode">
+    <HelpKINode Title="BasicAppSettings.Dispose Methode " Url="html/67462bcb-9ead-eec7-947e-ee3f4ea7c059.htm" />
+    <HelpKINode Title="FileWatcherTrigger.Dispose Methode " Url="html/c56ac1f8-9ce0-9e80-f68f-31a31d5b4872.htm" />
+    <HelpKINode Title="InfoController.Dispose Methode " Url="html/ab77a6e7-e212-2558-2ad0-dfa0c9f26faa.htm" />
+    <HelpKINode Title="LoggerBase.Dispose Methode " Url="html/097831db-1fd3-ab07-c9cb-5feddce1879b.htm" />
+    <HelpKINode Title="ProgressTimer.Dispose Methode " Url="html/414db83a-cf76-0783-bc1d-14a0d8f27f29.htm" />
+    <HelpKINode Title="TaskWorker.Dispose Methode " Url="html/02c0d8c0-862e-5cbd-fe9c-c5ef0844728a.htm" />
+    <HelpKINode Title="Threader.Dispose Methode " Url="html/6ced93b8-79cd-b948-5185-8d9a05b1a00d.htm" />
+    <HelpKINode Title="ZipAccess.Dispose Methode " Url="html/53a117af-2e1f-2cd4-a216-d0326980b65c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="dispose Methode" Url="html/09b33e13-b5ec-8f1b-276b-5b1db5bc5740.htm" />
+  <HelpKINode Title="DisposeAll Methode" Url="html/afed4f54-bd94-2a71-efd9-31c0036af99c.htm" />
+  <HelpKINode Title="DumpAppSettings Eigenschaft" Url="html/0f5ba247-0bb4-86c9-07de-902f34073cb4.htm" />
+  <HelpKINode Title="DumpLoadedAssemblies Eigenschaft" Url="html/a4f57c1a-176c-141b-896b-02f90a4d6b32.htm" />
+  <HelpKINode Title="DynamicLoadAssembly Methode" Url="html/fb15633b-429c-a926-114b-8aa054f361cc.htm" />
+  <HelpKINode Title="DynamicLoadObjectOfTypeFromAssembly Methode" Url="html/f977310d-22d4-ca37-1ce6-13a862f02df9.htm" />
+  <HelpKINode Title="EnumerableThreadSafeCopy(Of T) Klasse">
+    <HelpKINode Title="EnumerableThreadSafeCopy(T) Klasse" Url="html/29f193b2-81d3-d6c1-26da-811674cc5edf.htm" />
+    <HelpKINode Title="Methoden" Url="html/43bbdaa5-4617-f79a-d491-dfc88457c155.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumerableThreadSafeCopy(Of T).GetEnumerableThreadSafeCopy Methode" Url="html/ad9b6b83-136f-c377-a485-2eedfd3e6aa2.htm" />
+  <HelpKINode Title="EnumerableThreadSafeCopy&lt;T&gt; Klasse">
+    <HelpKINode Title="EnumerableThreadSafeCopy(T) Klasse" Url="html/29f193b2-81d3-d6c1-26da-811674cc5edf.htm" />
+    <HelpKINode Title="Methoden" Url="html/43bbdaa5-4617-f79a-d491-dfc88457c155.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumerableThreadSafeCopy&lt;T&gt;.GetEnumerableThreadSafeCopy Methode" Url="html/ad9b6b83-136f-c377-a485-2eedfd3e6aa2.htm" />
+  <HelpKINode Title="EnvAccess Klasse">
+    <HelpKINode Title="EnvAccess Klasse" Url="html/6c660993-b8c6-60c5-c28f-de5a4472c6c9.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/83f38faa-47d4-6b85-996a-ebdd74ee77e2.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/c7de4176-cee4-35df-c2b2-13fd405fb053.htm" />
+    <HelpKINode Title="Methoden" Url="html/cd6e34c3-df7c-95cd-4d83-1f63af9ebb65.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnvAccess.Description Eigenschaft" Url="html/909cdb6c-d2ba-4b27-3496-d88e2216e968.htm" />
+  <HelpKINode Title="EnvAccess.EnvAccess Konstruktor" Url="html/c7de4176-cee4-35df-c2b2-13fd405fb053.htm" />
+  <HelpKINode Title="EnvAccess.GetStringValue Methode" Url="html/3604007e-2ef9-36e3-fca3-864149948ccf.htm" />
+  <HelpKINode Title="EnvAccess.GetStringValues Methode" Url="html/04b44972-1a8b-8d12-b3e1-8d51df39e24a.htm" />
+  <HelpKINode Title="EnvAccessor Eigenschaft" Url="html/e0989138-174e-b81d-ebe0-165b8a9021c4.htm" />
+  <HelpKINode Title="Equals Methode" Url="html/66113188-8fec-93bc-531a-71365678f71c.htm" />
+  <HelpKINode Title="Error Enumerationsmember" Url="html/df95802a-a5eb-f85c-7e70-be764b2ce9ef.htm" />
+  <HelpKINode Title="Exception Enumerationsmember" Url="html/df95802a-a5eb-f85c-7e70-be764b2ce9ef.htm" />
+  <HelpKINode Title="Exceptioner Klasse">
+    <HelpKINode Title="Exceptioner Klasse" Url="html/8053b94f-a533-22d2-91aa-9c2634335266.htm" />
+    <HelpKINode Title="Methoden" Url="html/42806864-0b93-8080-35ef-3d733cbc26eb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Exceptioner.HandleInfo Methode" Url="html/e9e7f7a3-734b-3151-e722-a1ba34032b7d.htm" />
+  <HelpKINode Title="Execute Methode" Url="html/e523fe67-5ab6-360c-1951-c55c738ddd4e.htm" />
+  <HelpKINode Title="Expected Feld" Url="html/9bcd0f3b-835b-4d16-2c66-335f9afe1c7c.htm" />
+  <HelpKINode Title="ExtendedException Klasse">
+    <HelpKINode Title="ExtendedException Klasse" Url="html/88acb23c-20f4-e06b-9c34-201c9838c54d.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/c9968214-c71f-5e83-3595-1fb8de9cb95c.htm" />
+    <HelpKINode Title="Methoden" Url="html/c45246d5-7ab9-13fb-2b71-29758abe9f02.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExtendedException.ExtendedException Konstruktor" Url="html/c9968214-c71f-5e83-3595-1fb8de9cb95c.htm" />
+  <HelpKINode Title="ExtendedException.GetObjectData Methode" Url="html/022ccc78-1c82-f75c-d65d-0540574f7415.htm" />
+  <HelpKINode Title="ExtendedException.ToString Methode" Url="html/66422b0e-0419-7ecb-ef1c-46d6a821a2d1.htm" />
+  <HelpKINode Title="ExtendedZipProgressChanged Ereignis" Url="html/3d4192a1-35a3-20c4-11d1-3a3b46e4d36e.htm" />
+  <HelpKINode Title="ExtractPropertyName(Of T) Methode" Url="html/1652577a-c221-ec83-b9c1-cf257500f576.htm" />
+  <HelpKINode Title="ExtractPropertyName&lt;T&gt; Methode" Url="html/1652577a-c221-ec83-b9c1-cf257500f576.htm" />
+  <HelpKINode Title="FilePath Eigenschaft" Url="html/18667f9c-9781-215d-7f32-db9af0745dd6.htm" />
+  <HelpKINode Title="FileWatcherTrigger Klasse">
+    <HelpKINode Title="FileWatcherTrigger Klasse" Url="html/eefae80a-89f8-f07a-340c-d1c54b180ee1.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/62da8596-2b14-82f5-cc56-a059bd95078d.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/4564db2c-f39e-cc97-71ab-9c03db5a60cc.htm" />
+    <HelpKINode Title="Methoden" Url="html/c9caf536-642a-9eb0-2781-3ac092e662c7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileWatcherTrigger.Dispose Methode" Url="html/c56ac1f8-9ce0-9e80-f68f-31a31d5b4872.htm" />
+  <HelpKINode Title="FileWatcherTrigger.FileWatcherTrigger Konstruktor" Url="html/4564db2c-f39e-cc97-71ab-9c03db5a60cc.htm" />
+  <HelpKINode Title="FileWatcherTrigger.Finalize Methode" Url="html/f7873683-1563-82e6-8848-3984f56f241a.htm" />
+  <HelpKINode Title="FileWatcherTrigger.OnError Methode" Url="html/84b02b89-fe81-9763-943d-eff3743a70cf.htm" />
+  <HelpKINode Title="FileWatcherTrigger.OnTriggerFired Methode" Url="html/c510efa9-e6a3-4957-20a4-6ecbad425982.htm" />
+  <HelpKINode Title="FileWatcherTrigger.Start Methode" Url="html/3ae947d1-c67e-a42e-37f4-a018cd4967c9.htm" />
+  <HelpKINode Title="FileWatcherTrigger.Stop Methode" Url="html/880a5922-7bdd-2901-ce11-8e9a0300ae9d.htm" />
+  <HelpKINode Title="FileWatcherTrigger.TriggerInfo Eigenschaft" Url="html/280cf358-d672-66e4-9f70-abdf2133c7c2.htm" />
+  <HelpKINode Title="Finalize Methode">
+    <HelpKINode Title="BasicAppSettings.Finalize Methode " Url="html/5992da81-40a8-d6ab-f347-1d5e1d199ade.htm" />
+    <HelpKINode Title="FileWatcherTrigger.Finalize Methode " Url="html/f7873683-1563-82e6-8848-3984f56f241a.htm" />
+    <HelpKINode Title="InfoController.Finalize Methode " Url="html/f4b29c18-56c4-a068-6926-484d8b390b9f.htm" />
+    <HelpKINode Title="LoggerBase.Finalize Methode " Url="html/c34db7cd-aabe-b5af-1244-f210164e4e4a.htm" />
+    <HelpKINode Title="ProgressTimer.Finalize Methode " Url="html/53568ced-9801-5e10-a0fb-930fa6cb79c7.htm" />
+    <HelpKINode Title="TaskWorker.Finalize Methode " Url="html/25c9ea8b-4f18-9d3a-e5e0-d5ba2cc470e0.htm" />
+    <HelpKINode Title="Threader.Finalize Methode " Url="html/ed2eaee1-07ec-1e5d-3a46-fe7d44b6d4c8.htm" />
+    <HelpKINode Title="ZipAccess.Finalize Methode " Url="html/4482ce66-12b1-fba5-0286-c12a9d2efd46.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Finish Methode" Url="html/1cf387bf-5016-0a8a-533e-6cb3a794b62c.htm" />
+  <HelpKINode Title="FinishChain Methode" Url="html/535cea74-7cb3-7b15-138c-332e8cb4d238.htm" />
+  <HelpKINode Title="Flush Methode">
+    <HelpKINode Title="IFlushable.Flush Methode " Url="html/0697d345-1b42-6f17-e5e9-4a3b40d568b7.htm" />
+    <HelpKINode Title="InfoController.Flush Methode " Url="html/f3776717-7442-a114-8569-33e74008c288.htm" />
+    <HelpKINode Title="LoggerBase.Flush Methode " Url="html/640da9a1-b8e9-651d-9a2a-6de6a46ac8b6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FlushAll Methode" Url="html/73335bfc-dc8a-6a26-e3e5-0a1ee64bd775.htm" />
+  <HelpKINode Title="FrameworkVersionMajor Eigenschaft" Url="html/858a2d10-59be-0c3b-12a7-555558f080d9.htm" />
+  <HelpKINode Title="FullPath Eigenschaft" Url="html/335709b5-250b-e1ba-ec56-516700e393cb.htm" />
+  <HelpKINode Title="GenerateFileList Methode" Url="html/b51dfeb0-86a6-2402-42ef-fbab6df8eb02.htm" />
+  <HelpKINode Title="GenericNonSingletonProvider Klasse">
+    <HelpKINode Title="GenericNonSingletonProvider Klasse" Url="html/930c5af0-428a-290f-a9b2-1b45c725de54.htm" />
+    <HelpKINode Title="Methoden" Url="html/97e54274-330e-4442-db39-3e9fbe878e6c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericNonSingletonProvider.GetInstance Methode" Url="html/504cb955-34a6-f82f-b902-dae07c1098a4.htm" />
+  <HelpKINode Title="GenericSingletonProvider Klasse">
+    <HelpKINode Title="GenericSingletonProvider Klasse" Url="html/516b303f-93dd-1ed8-75f7-0e38c982eb61.htm" />
+    <HelpKINode Title="Methoden" Url="html/ca9d621e-4a97-02d4-31be-e2999c2a1344.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericSingletonProvider.GetInstance Methode" Url="html/b14e0937-a449-c83b-fb35-86f37a1f5803.htm" />
+  <HelpKINode Title="GenericTree(Of T) Klasse">
+    <HelpKINode Title="GenericTree(T) Klasse" Url="html/89b3ba52-8403-f018-f50d-7cff1d0f4e49.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/8415b83d-ef47-a809-ffd6-23db92793407.htm" />
+    <HelpKINode Title="Felder" Url="html/b247c721-2a67-70dc-7f8c-905fef59d381.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/c2bcef5a-4266-4f77-7d0a-aa460034bc3e.htm" />
+    <HelpKINode Title="Methoden" Url="html/2a2b08c9-e702-082e-854c-cc762909ad29.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericTree(Of T).Children Eigenschaft" Url="html/cd6af2e5-58d3-bf0e-1657-32adf05ce1a7.htm" />
+  <HelpKINode Title="GenericTree(Of T).climb2Top Methode" Url="html/466a4cd4-fa9b-6633-7de1-bb087f4932db.htm" />
+  <HelpKINode Title="GenericTree(Of T).GenericTree Konstruktor" Url="html/c2bcef5a-4266-4f77-7d0a-aa460034bc3e.htm" />
+  <HelpKINode Title="GenericTree(Of T).Mother Feld" Url="html/b2437529-f202-45df-33bf-78857312685d.htm" />
+  <HelpKINode Title="GenericTree(Of T).traverse Methode" Url="html/d1ac0751-94f4-59a4-762e-0460a2cd215f.htm" />
+  <HelpKINode Title="GenericTree(Of T).Traverse Methode" Url="html/333c1e65-49e8-61ad-56a7-7c58d49c1b56.htm" />
+  <HelpKINode Title="GenericTree&lt;T&gt; Klasse">
+    <HelpKINode Title="GenericTree(T) Klasse" Url="html/89b3ba52-8403-f018-f50d-7cff1d0f4e49.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/8415b83d-ef47-a809-ffd6-23db92793407.htm" />
+    <HelpKINode Title="Felder" Url="html/b247c721-2a67-70dc-7f8c-905fef59d381.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/c2bcef5a-4266-4f77-7d0a-aa460034bc3e.htm" />
+    <HelpKINode Title="Methoden" Url="html/2a2b08c9-e702-082e-854c-cc762909ad29.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericTree&lt;T&gt;.Children Eigenschaft" Url="html/cd6af2e5-58d3-bf0e-1657-32adf05ce1a7.htm" />
+  <HelpKINode Title="GenericTree&lt;T&gt;.climb2Top Methode" Url="html/466a4cd4-fa9b-6633-7de1-bb087f4932db.htm" />
+  <HelpKINode Title="GenericTree&lt;T&gt;.GenericTree Konstruktor" Url="html/c2bcef5a-4266-4f77-7d0a-aa460034bc3e.htm" />
+  <HelpKINode Title="GenericTree&lt;T&gt;.Mother Feld" Url="html/b2437529-f202-45df-33bf-78857312685d.htm" />
+  <HelpKINode Title="GenericTree&lt;T&gt;.Traverse Methode" Url="html/333c1e65-49e8-61ad-56a7-7c58d49c1b56.htm" />
+  <HelpKINode Title="GenericTree&lt;T&gt;.traverse Methode" Url="html/d1ac0751-94f4-59a4-762e-0460a2cd215f.htm" />
+  <HelpKINode Title="GetActualScreenInfo Methode" Url="html/5bcd70d2-58cf-67a7-3d48-6a0abc151cbb.htm" />
+  <HelpKINode Title="GetAllScreenInfos Methode" Url="html/a883dca4-4186-b81c-92d9-50fad2949f8c.htm" />
+  <HelpKINode Title="GetAllThreaderExceptions Methode" Url="html/06fa9979-0cbb-1a71-3c5a-f042e3b869d7.htm" />
+  <HelpKINode Title="GetAssemblyLoader Methode" Url="html/ecdf0023-e807-1f33-bd06-789352966625.htm" />
+  <HelpKINode Title="GetDictionaryKeysThreadSafeCopy Methode" Url="html/c8a30fd0-b52f-c625-8540-60a15b3e8e58.htm" />
+  <HelpKINode Title="GetDictionaryThreadSafeCopy Methode" Url="html/640580b3-15bb-ef6c-d730-cdbd6bda4218.htm" />
+  <HelpKINode Title="GetDictionaryValuesThreadSafeCopy Methode" Url="html/ccb8552b-427b-07cb-a199-5ecb7a88a859.htm" />
+  <HelpKINode Title="GetEnumerableThreadSafeCopy Methode" Url="html/ad9b6b83-136f-c377-a485-2eedfd3e6aa2.htm" />
+  <HelpKINode Title="GetHashCode Methode" Url="html/d3622105-b4d6-b4a3-a39e-d760b2bbe654.htm" />
+  <HelpKINode Title="GetInfoController Methode" Url="html/bbc89337-859f-a99f-bab1-d1111fb76a90.htm" />
+  <HelpKINode Title="GetInfoPublisher Methode" Url="html/49f09485-3bb7-72d3-3410-4e1e1f447ee5.htm" />
+  <HelpKINode Title="GetInfoSource Methode" Url="html/e53f345a-e586-2bf4-e75a-0f607df36c72.htm" />
+  <HelpKINode Title="GetInstance Methode">
+    <HelpKINode Title="GenericNonSingletonProvider.GetInstance Methode " Url="html/504cb955-34a6-f82f-b902-dae07c1098a4.htm" />
+    <HelpKINode Title="GenericSingletonProvider.GetInstance Methode " Url="html/b14e0937-a449-c83b-fb35-86f37a1f5803.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetLastActualScreenInfo Methode" Url="html/f6258fba-53d9-22d1-987e-05e566de5a06.htm" />
+  <HelpKINode Title="GetLoadedAssemblies Methode">
+    <HelpKINode Title="AssemblyLoader.GetLoadedAssemblies Methode " Url="html/b9c96207-7c8b-0d65-6c2d-2416cab1f884.htm" />
+    <HelpKINode Title="BasicAppSettings.GetLoadedAssemblies Methode " Url="html/8be24ab2-242a-7a84-aa87-2c62815816ca.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetNewThreader Methode" Url="html/691819a6-967d-f64e-fafc-18b29179b703.htm" />
+  <HelpKINode Title="GetNextPointWithinActualScreenCoordinates Methode" Url="html/0b444964-9c7e-81e6-71f1-1559da7120b2.htm" />
+  <HelpKINode Title="GetObjectData Methode">
+    <HelpKINode Title="ExtendedException.GetObjectData Methode " Url="html/022ccc78-1c82-f75c-d65d-0540574f7415.htm" />
+    <HelpKINode Title="ThreaderException.GetObjectData Methode " Url="html/8ab9b128-e95f-6ac2-ca8b-5d5eca6c683e.htm" />
+    <HelpKINode Title="XmlAccessException.GetObjectData Methode " Url="html/041119e4-7bd4-78fd-0338-d2f1e6d9b1e5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetParametersSources Methode">
+    <HelpKINode Title="AppEnvReader.GetParametersSources Methode " Url="html/bc40f910-d66e-44c9-7b39-ff31c3e098f1.htm" />
+    <HelpKINode Title="AppSettingsRegistry.GetParametersSources Methode " Url="html/436a58d4-a361-6684-8015-7983884df637.htm" />
+    <HelpKINode Title="BasicAppSettings.GetParametersSources Methode " Url="html/97be9cd5-6cbc-c518-eda8-1f7f4157e05c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetStringValue Methode">
+    <HelpKINode Title="AppEnvReader.GetStringValue Methode " Url="html/a1a9242c-26fd-123a-4cfd-b4982a106346.htm" />
+    <HelpKINode Title="BasicAppSettings.GetStringValue Methode " Url="html/1a84e787-42cc-75f9-9f40-42a1c9d43dfa.htm" />
+    <HelpKINode Title="CommandLineAccess.GetStringValue Methode " Url="html/14d2ee96-10e5-a8ec-8faf-f40f71206580.htm" />
+    <HelpKINode Title="EnvAccess.GetStringValue Methode " Url="html/3604007e-2ef9-36e3-fca3-864149948ccf.htm" />
+    <HelpKINode Title="IGetStringValue.GetStringValue Methode " Url="html/ba12da0d-650c-a5b3-7e4e-87fc39ed2def.htm" />
+    <HelpKINode Title="IniAccess.GetStringValue Methode " Url="html/152c9e37-c6e2-37a5-96de-daa5840859e0.htm" />
+    <HelpKINode Title="PropertyAccess.GetStringValue Methode " Url="html/bd89cef4-8712-cd7c-39b7-815369f5ad74.htm" />
+    <HelpKINode Title="RegAccess.GetStringValue Methode " Url="html/899d6a8a-926a-e9d5-53a0-c95cd22b173b.htm" />
+    <HelpKINode Title="SettingsAccess.GetStringValue Methode " Url="html/dbaba3b2-e979-a441-c449-d512a309c465.htm" />
+    <HelpKINode Title="XmlAccess.GetStringValue Methode " Url="html/a91a8b69-1b91-f4dd-e847-f3c44c69cba9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetStringValues Methode">
+    <HelpKINode Title="AppEnvReader.GetStringValues Methode " Url="html/6455a940-1aef-bced-b7b8-2b9aa6d0edee.htm" />
+    <HelpKINode Title="BasicAppSettings.GetStringValues Methode " Url="html/6f483913-4185-20f7-4e58-f81b1c506ba4.htm" />
+    <HelpKINode Title="CommandLineAccess.GetStringValues Methode " Url="html/39d52a7d-8379-6eb7-4f86-742961e4bd84.htm" />
+    <HelpKINode Title="EnvAccess.GetStringValues Methode " Url="html/04b44972-1a8b-8d12-b3e1-8d51df39e24a.htm" />
+    <HelpKINode Title="IGetStringValue.GetStringValues Methode " Url="html/6d6b901a-1402-e9a3-fd43-672e19e3bc86.htm" />
+    <HelpKINode Title="IniAccess.GetStringValues Methode " Url="html/9503dfa1-1736-5925-a192-1e986076d00a.htm" />
+    <HelpKINode Title="PropertyAccess.GetStringValues Methode " Url="html/ded0bb96-76aa-f6dd-9c28-9fb14f94bf7a.htm" />
+    <HelpKINode Title="RegAccess.GetStringValues Methode " Url="html/98b226e6-7a9e-a054-75db-5058445c9d9a.htm" />
+    <HelpKINode Title="SettingsAccess.GetStringValues Methode " Url="html/92eee750-4259-d3ad-2e60-8415787f45ae.htm" />
+    <HelpKINode Title="XmlAccess.GetStringValues Methode " Url="html/56ce78ef-03c4-1e2f-5bff-18f79e6cd881.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetSubKeyNames Methode" Url="html/3b701958-cc72-8388-8c71-2d6b36e33b18.htm" />
+  <HelpKINode Title="GetSubValueNames Methode" Url="html/a4dc6b6e-974a-ffb6-55de-604fd1db1e61.htm" />
+  <HelpKINode Title="GetThisThreader Methode" Url="html/c095b6ca-ce93-a9ed-d578-4a291520554b.htm" />
+  <HelpKINode Title="GetThreadInfos Methode" Url="html/3c891713-7827-8d85-628e-9594cef4d92a.htm" />
+  <HelpKINode Title="GetUniversalName Methode" Url="html/09df3ff3-205c-c94c-0031-47d6eacdff51.htm" />
+  <HelpKINode Title="GetValue Methode" Url="html/ec3e3fa7-a028-7f05-a263-dcee362e336c.htm" />
+  <HelpKINode Title="GetValue(Of T) Methode">
+    <HelpKINode Title="AppEnvReader.GetValue(T) Methode " Url="html/751d9722-401c-bfd5-5d68-b7b19a1bc240.htm" />
+    <HelpKINode Title="BasicAppSettings.GetValue(T) Methode " Url="html/224b9f06-e7e0-d9c2-d3d7-e6ccfc2c5c0c.htm" />
+    <HelpKINode Title="IGetValue.GetValue(T) Methode " Url="html/e414972d-9cbc-f521-230b-f270d152e59b.htm" />
+    <HelpKINode Title="PropertyAccess.GetValue(T) Methode " Url="html/8061ecc2-cd88-c3e1-d91e-eaf97905ae53.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetValue&lt;T&gt; Methode">
+    <HelpKINode Title="AppEnvReader.GetValue(T) Methode " Url="html/751d9722-401c-bfd5-5d68-b7b19a1bc240.htm" />
+    <HelpKINode Title="BasicAppSettings.GetValue(T) Methode " Url="html/224b9f06-e7e0-d9c2-d3d7-e6ccfc2c5c0c.htm" />
+    <HelpKINode Title="IGetValue.GetValue(T) Methode " Url="html/e414972d-9cbc-f521-230b-f270d152e59b.htm" />
+    <HelpKINode Title="PropertyAccess.GetValue(T) Methode " Url="html/8061ecc2-cd88-c3e1-d91e-eaf97905ae53.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetValues(Of T) Methode">
+    <HelpKINode Title="AppEnvReader.GetValues(T) Methode " Url="html/2e9d53ec-bc52-2555-861e-e2c501ce37be.htm" />
+    <HelpKINode Title="BasicAppSettings.GetValues(T) Methode " Url="html/7c21df24-f614-3ee8-a63b-ff72a982a861.htm" />
+    <HelpKINode Title="IGetValue.GetValues(T) Methode " Url="html/dfd07476-28b1-2b8d-9f8c-584f18753ebb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetValues&lt;T&gt; Methode">
+    <HelpKINode Title="AppEnvReader.GetValues(T) Methode " Url="html/2e9d53ec-bc52-2555-861e-e2c501ce37be.htm" />
+    <HelpKINode Title="BasicAppSettings.GetValues(T) Methode " Url="html/7c21df24-f614-3ee8-a63b-ff72a982a861.htm" />
+    <HelpKINode Title="IGetValue.GetValues(T) Methode " Url="html/dfd07476-28b1-2b8d-9f8c-584f18753ebb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetZipEntryFilePathes Methode" Url="html/23d470c8-5b19-253b-98c4-80c4e32e9abf.htm" />
+  <HelpKINode Title="GetZipEntryList Methode" Url="html/d96fe743-83b8-842d-df3f-83a14d633dd3.htm" />
+  <HelpKINode Title="GetZipEntryListICSharp Methode" Url="html/995c52d5-7c8f-3e2f-e490-615f8076a2a6.htm" />
+  <HelpKINode Title="Global Klasse">
+    <HelpKINode Title="Global Klasse" Url="html/b1d614fc-ec33-eefc-2330-e466f6fc4d73.htm" />
+    <HelpKINode Title="Felder" Url="html/a901cf2a-4cba-f25d-2dea-5de7fc81c81e.htm" />
+    <HelpKINode Title="Methoden" Url="html/223fd629-b52d-ebd2-c3ff-a25b67d2a755.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Global.CompareVersion Methode" Url="html/9d2b080f-5074-7407-cea3-8d0b6d7ed1ce.htm" />
+  <HelpKINode Title="Global.GetUniversalName Methode" Url="html/09df3ff3-205c-c94c-0031-47d6eacdff51.htm" />
+  <HelpKINode Title="Global.IsDate Methode" Url="html/f36f34a6-3fbe-74d5-f338-6185bcd44a2d.htm" />
+  <HelpKINode Title="Global.SaveColumnDelimiter Feld" Url="html/ea57c59e-b7f0-ee59-8062-391f0ffdbbf1.htm" />
+  <HelpKINode Title="Global.StandardCsvColumnDelimiter Feld" Url="html/2f9b2e16-a7f0-692a-2f5a-69e5246bac8c.htm" />
+  <HelpKINode Title="Global.StringToSecureString Methode" Url="html/b8469a4d-434d-bdb1-97f8-ff98131b7c62.htm" />
+  <HelpKINode Title="Global.UnicodeHexcodeToChar Methode" Url="html/edb94bf9-dd5e-e568-d4fc-3e4eeb5966c4.htm" />
+  <HelpKINode Title="Halted Enumerationsmember" Url="html/d9f04c8b-dab6-2370-1a45-2f4b811f3339.htm" />
+  <HelpKINode Title="HaltTask Methode" Url="html/2fe4c7f4-963b-85c0-6567-2a3eeb1dcb41.htm" />
+  <HelpKINode Title="HandleInfo Methode">
+    <HelpKINode Title="Exceptioner.HandleInfo Methode " Url="html/e9e7f7a3-734b-3151-e722-a1ba34032b7d.htm" />
+    <HelpKINode Title="IInfoViewer.HandleInfo Methode " Url="html/55163496-12e9-deb7-063c-754f7ace4033.htm" />
+    <HelpKINode Title="Logger.HandleInfo Methode " Url="html/35077b99-83d9-e94d-3dff-cb927115a57d.htm" />
+    <HelpKINode Title="LoggerBase.HandleInfo Methode " Url="html/d70fb2bf-b427-8c3f-28be-0ce31f1ee2f9.htm" />
+    <HelpKINode Title="ViewerAsWrapper.HandleInfo Methode " Url="html/0a902638-d02f-6928-0964-fdf268b2253c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Head Eigenschaft" Url="html/cbad3701-ac36-6169-75b8-babced5eebe6.htm" />
+  <HelpKINode Title="HkeyClassesRoot Enumerationsmember" Url="html/24421dba-383c-1c38-81cb-868a5621d27e.htm" />
+  <HelpKINode Title="HkeyCurrentConfig Enumerationsmember" Url="html/24421dba-383c-1c38-81cb-868a5621d27e.htm" />
+  <HelpKINode Title="HkeyCurrentUser Enumerationsmember" Url="html/24421dba-383c-1c38-81cb-868a5621d27e.htm" />
+  <HelpKINode Title="HkeyLocalMachine Enumerationsmember" Url="html/24421dba-383c-1c38-81cb-868a5621d27e.htm" />
+  <HelpKINode Title="HkeyUsers Enumerationsmember" Url="html/24421dba-383c-1c38-81cb-868a5621d27e.htm" />
+  <HelpKINode Title="IcsUnzipFirstDumpToFile Methode" Url="html/af9312b3-4d9a-3fac-09b5-56e9b4c07a37.htm" />
+  <HelpKINode Title="IFlushable Schnittstelle">
+    <HelpKINode Title="IFlushable Schnittstelle" Url="html/faccb484-5bce-fe7b-212c-f578297df048.htm" />
+    <HelpKINode Title="Methoden" Url="html/4b625dd2-a48b-5c53-defc-91e3462180b9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFlushable.Flush Methode" Url="html/0697d345-1b42-6f17-e5e9-4a3b40d568b7.htm" />
+  <HelpKINode Title="IGetStringValue Schnittstelle">
+    <HelpKINode Title="IGetStringValue Schnittstelle" Url="html/1b092189-b6ad-8b90-eee1-96cd7a007f78.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/1a48ae8c-eaa5-e5f2-5363-85b88ea47230.htm" />
+    <HelpKINode Title="Methoden" Url="html/d564043c-82ad-7444-5ff3-514808f1a06d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IGetStringValue.Description Eigenschaft" Url="html/a49838cc-3c35-c6e7-1900-a5753fff918d.htm" />
+  <HelpKINode Title="IGetStringValue.GetStringValue Methode" Url="html/ba12da0d-650c-a5b3-7e4e-87fc39ed2def.htm" />
+  <HelpKINode Title="IGetStringValue.GetStringValues Methode" Url="html/6d6b901a-1402-e9a3-fd43-672e19e3bc86.htm" />
+  <HelpKINode Title="IGetValue Schnittstelle">
+    <HelpKINode Title="IGetValue Schnittstelle" Url="html/344047af-5ba8-59d6-2412-a6d0aa369805.htm" />
+    <HelpKINode Title="Methoden" Url="html/7b950c9e-69d9-0af7-f2b8-e863b1151d27.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IGetValue.GetValue(Of T) Methode" Url="html/e414972d-9cbc-f521-230b-f270d152e59b.htm" />
+  <HelpKINode Title="IGetValue.GetValue&lt;T&gt; Methode" Url="html/e414972d-9cbc-f521-230b-f270d152e59b.htm" />
+  <HelpKINode Title="IGetValue.GetValues(Of T) Methode" Url="html/dfd07476-28b1-2b8d-9f8c-584f18753ebb.htm" />
+  <HelpKINode Title="IGetValue.GetValues&lt;T&gt; Methode" Url="html/dfd07476-28b1-2b8d-9f8c-584f18753ebb.htm" />
+  <HelpKINode Title="IInfoController Schnittstelle">
+    <HelpKINode Title="IInfoController Schnittstelle" Url="html/e65ddeaa-e00c-4385-92a1-b23c056a5cdb.htm" />
+    <HelpKINode Title="Methoden" Url="html/03d751bb-4edc-c90e-9e96-40fc83c50da3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IInfoPublisher Schnittstelle">
+    <HelpKINode Title="IInfoPublisher Schnittstelle" Url="html/aeb9c78c-e22a-f274-ed36-e7ae226ded30.htm" />
+    <HelpKINode Title="Methoden" Url="html/1817ea2c-73e0-090a-033d-784147919b85.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IInfoPublisher.Publish Methode" Url="html/991db73e-de77-669b-75c7-331cd5003a62.htm" />
+  <HelpKINode Title="IInfoSource Schnittstelle">
+    <HelpKINode Title="IInfoSource Schnittstelle" Url="html/837bd807-f8ae-1634-1f36-ee42256e39e0.htm" />
+    <HelpKINode Title="Methoden" Url="html/39ad49b3-c236-d13c-4474-576e4fb48d13.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IInfoSource.RegisterInfoReceiver Methode" Url="html/4c13ec4c-6e8c-3660-25a4-d517c8c99e21.htm" />
+  <HelpKINode Title="IInfoSource.UnregisterInfoReceiver Methode" Url="html/99d5e325-0d2b-bda2-aa72-71faadb61ecd.htm" />
+  <HelpKINode Title="IInfoViewer Schnittstelle">
+    <HelpKINode Title="IInfoViewer Schnittstelle" Url="html/6f9834b9-a79e-28c4-8790-332eefa6aa25.htm" />
+    <HelpKINode Title="Methoden" Url="html/c3b634ed-5d84-e4e5-75af-b367b9f95507.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IInfoViewer.HandleInfo Methode" Url="html/55163496-12e9-deb7-063c-754f7ace4033.htm" />
+  <HelpKINode Title="Inc Methode" Url="html/36d111ae-d74c-d36f-e8f6-b7f2f5a09b20.htm" />
+  <HelpKINode Title="Info Enumerationsmember" Url="html/df95802a-a5eb-f85c-7e70-be764b2ce9ef.htm" />
+  <HelpKINode Title="InfoArgs Klasse">
+    <HelpKINode Title="InfoArgs Klasse" Url="html/5b8d08e1-68ce-a830-3477-9d678fd34019.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/d0f1ab9a-ab5e-6ff3-587f-d42af2d688eb.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/d65099f4-23cc-10f9-5ecd-082841a8b389.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InfoArgs.InfoArgs Konstruktor" Url="html/d65099f4-23cc-10f9-5ecd-082841a8b389.htm" />
+  <HelpKINode Title="InfoArgs.LogLevel Eigenschaft" Url="html/a79ab21b-3c84-cb84-c5ae-ac88ccbe9792.htm" />
+  <HelpKINode Title="InfoArgs.LogLevelText Eigenschaft" Url="html/0e572d33-66d4-7ec7-d8ad-271d8efb3c75.htm" />
+  <HelpKINode Title="InfoArgs.MessageObject Eigenschaft" Url="html/e4fed94a-9108-60a6-607f-cbea765a5fbe.htm" />
+  <HelpKINode Title="InfoArgs.ThreadInfos Eigenschaft" Url="html/ebf0c867-98e6-6052-bfaf-e9ec94d8bb72.htm" />
+  <HelpKINode Title="InfoArgs.Timestamp Eigenschaft" Url="html/fd0c0a26-99b0-4b8b-100c-bf136eec06b6.htm" />
+  <HelpKINode Title="InfoController Klasse">
+    <HelpKINode Title="InfoController Klasse" Url="html/f10e9fb7-7099-24dd-f9bb-64ea7c3a6765.htm" />
+    <HelpKINode Title="Methoden" Url="html/65303d2b-de10-2654-74f8-57b6e9156886.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InfoController.Dispose Methode" Url="html/ab77a6e7-e212-2558-2ad0-dfa0c9f26faa.htm" />
+  <HelpKINode Title="InfoController.DisposeAll Methode" Url="html/afed4f54-bd94-2a71-efd9-31c0036af99c.htm" />
+  <HelpKINode Title="InfoController.Finalize Methode" Url="html/f4b29c18-56c4-a068-6926-484d8b390b9f.htm" />
+  <HelpKINode Title="InfoController.Flush Methode" Url="html/f3776717-7442-a114-8569-33e74008c288.htm" />
+  <HelpKINode Title="InfoController.FlushAll Methode" Url="html/73335bfc-dc8a-6a26-e3e5-0a1ee64bd775.htm" />
+  <HelpKINode Title="InfoController.GetInfoController Methode" Url="html/bbc89337-859f-a99f-bab1-d1111fb76a90.htm" />
+  <HelpKINode Title="InfoController.GetInfoPublisher Methode" Url="html/49f09485-3bb7-72d3-3410-4e1e1f447ee5.htm" />
+  <HelpKINode Title="InfoController.GetInfoSource Methode" Url="html/e53f345a-e586-2bf4-e75a-0f607df36c72.htm" />
+  <HelpKINode Title="InfoController.Publish Methode" Url="html/28abbc86-84d6-1510-06b9-ffebda4cfc5f.htm" />
+  <HelpKINode Title="InfoController.RegisterInfoReceiver Methode" Url="html/9fdd8e0c-5cc7-ca8c-4f19-5a29469f40ed.htm" />
+  <HelpKINode Title="InfoController.Say Methode" Url="html/7fae0cd6-cdfe-2b31-9569-88e42b597f69.htm" />
+  <HelpKINode Title="InfoController.UnregisterInfoReceiver Methode" Url="html/c08356cc-a77f-6915-1990-9423015a5f58.htm" />
+  <HelpKINode Title="InfoType Enumeration" Url="html/df95802a-a5eb-f85c-7e70-be764b2ce9ef.htm" />
+  <HelpKINode Title="InfoTypeArray2String Methode" Url="html/d8b00c0f-e86b-985c-6d71-e5103e7fefda.htm" />
+  <HelpKINode Title="InfoTypes Klasse">
+    <HelpKINode Title="InfoTypes Klasse" Url="html/16f6173b-0478-ce50-6137-4ed5af8729cc.htm" />
+    <HelpKINode Title="Felder" Url="html/5dcf05c0-ca4c-09af-1290-acaee8002db4.htm" />
+    <HelpKINode Title="Methoden" Url="html/df1d25d1-fac5-4a7b-9579-30b2a05b81eb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InfoTypes.All Feld" Url="html/ab33142b-7b89-563e-a533-773768dfb530.htm" />
+  <HelpKINode Title="InfoTypes.Average Feld" Url="html/d61af817-e5ef-d83e-eeb8-d7c8f090a496.htm" />
+  <HelpKINode Title="InfoTypes.Collection2InfoTypeArray Methode" Url="html/f8af52a0-fbc9-652e-e209-e8472fac8be2.htm" />
+  <HelpKINode Title="InfoTypes.Expected Feld" Url="html/9bcd0f3b-835b-4d16-2c66-335f9afe1c7c.htm" />
+  <HelpKINode Title="InfoTypes.InfoTypeArray2String Methode" Url="html/d8b00c0f-e86b-985c-6d71-e5103e7fefda.htm" />
+  <HelpKINode Title="InfoTypes.None Feld" Url="html/dfd54f66-e925-e743-cd6b-8dbe7f77dffc.htm" />
+  <HelpKINode Title="InfoTypes.Serious Feld" Url="html/936d6881-d901-293e-67a4-f03a503cb915.htm" />
+  <HelpKINode Title="InfoTypes.String2InfoType Methode" Url="html/4dc20015-9466-dc0c-ed60-facc9cbe6fe3.htm" />
+  <HelpKINode Title="InfoTypes.String2InfoTypeArray Methode" Url="html/9c0b334e-4a8a-c260-7aa6-9e81ed7e7027.htm" />
+  <HelpKINode Title="InfoTypes.Unexpected Feld" Url="html/c8f295d2-fc56-9d0d-6ab8-69613b3fcb55.htm" />
+  <HelpKINode Title="IniAccess Klasse">
+    <HelpKINode Title="IniAccess Klasse" Url="html/e668bcfb-b973-fba7-3f93-d994de4ffaab.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/f0e76182-7a7a-f2ff-39ff-8a37dcc26fc7.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/e9b07401-812b-a761-0847-3cba63994cb5.htm" />
+    <HelpKINode Title="Methoden" Url="html/f3ab4b22-5b7a-fc6a-b063-b1c1ac8bdc85.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IniAccess.Description Eigenschaft" Url="html/e5049d36-564a-bbd4-ee95-df95ec9694cd.htm" />
+  <HelpKINode Title="IniAccess.GetStringValue Methode" Url="html/152c9e37-c6e2-37a5-96de-daa5840859e0.htm" />
+  <HelpKINode Title="IniAccess.GetStringValues Methode" Url="html/9503dfa1-1736-5925-a192-1e986076d00a.htm" />
+  <HelpKINode Title="IniAccess.IniAccess Konstruktor" Url="html/e9b07401-812b-a761-0847-3cba63994cb5.htm" />
+  <HelpKINode Title="IniAccess.ReadSetting Methode" Url="html/9e6bf563-9b48-0085-b449-a89879fce89e.htm" />
+  <HelpKINode Title="INotifyPropertiesChanged Schnittstelle">
+    <HelpKINode Title="INotifyPropertiesChanged Schnittstelle" Url="html/026e1a2b-d1a1-34ed-ddcc-3770443ee8a2.htm" />
+    <HelpKINode Title="Ereignisse" Url="html/a69067a6-84bf-94a0-4d53-41a08a5880a6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="INotifyPropertiesChanged.PropertiesChanged Ereignis" Url="html/a11bb094-9374-6d1c-f0cf-da4750c756c7.htm" />
+  <HelpKINode Title="InstanceId Eigenschaft" Url="html/b1132aee-052f-c871-4fb6-fcff4d1d9caf.htm" />
+  <HelpKINode Title="IRelayCommand Schnittstelle">
+    <HelpKINode Title="IRelayCommand Schnittstelle" Url="html/b4dcbf20-dc2f-2444-48a1-6e9073dcce62.htm" />
+    <HelpKINode Title="Methoden" Url="html/8e52aa64-edf4-ffff-5f97-efc6d9a1d57f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRelayCommand.UpdateCanExecuteState Methode" Url="html/18de243e-3e39-b402-2da9-7db8e9669160.htm" />
+  <HelpKINode Title="IsBreaked Eigenschaft" Url="html/557adc60-671f-ee55-ca2d-4b0f45088228.htm" />
+  <HelpKINode Title="IsClickOnce Eigenschaft" Url="html/fb8ec910-0e9f-4f32-0e50-6b3cffd85b69.htm" />
+  <HelpKINode Title="IsDate Methode" Url="html/f36f34a6-3fbe-74d5-f338-6185bcd44a2d.htm" />
+  <HelpKINode Title="IsDefault Methode" Url="html/96eee7f3-b57f-2ef6-776d-87d09e08a6d6.htm" />
+  <HelpKINode Title="IsDirectory Eigenschaft" Url="html/a3e80829-16f9-909a-c6ba-3f24fedc1dc7.htm" />
+  <HelpKINode Title="IsEmptyAllThreaderExceptions Methode" Url="html/dcb22673-fba5-326c-bf20-2485c0441eb5.htm" />
+  <HelpKINode Title="IsFullFramework Eigenschaft" Url="html/29d50745-1c2e-c693-1ae0-66a0bd94da6a.htm" />
+  <HelpKINode Title="IsNetCore Eigenschaft" Url="html/0275e26a-9139-fbf1-4e9a-832f8b74957e.htm" />
+  <HelpKINode Title="IsNetNative Eigenschaft" Url="html/721df2b1-85d0-f3f3-bea8-36630e89b938.htm" />
+  <HelpKINode Title="IsPrimary Eigenschaft" Url="html/bac0baf3-58fb-d911-d40d-547becf521cd.htm" />
+  <HelpKINode Title="IsTimerTriggered Eigenschaft">
+    <HelpKINode Title="LoggerBase.IsTimerTriggered Eigenschaft " Url="html/2b446309-1110-096c-8af6-b1cf565c7ae2.htm" />
+    <HelpKINode Title="Statistics.IsTimerTriggered Eigenschaft " Url="html/0e801c37-7290-dc58-8489-3146e7b728be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsWithinActualScreenCoordinates Methode" Url="html/bd30ed34-5a68-4d1b-8227-5e51e9683694.htm" />
+  <HelpKINode Title="IsZip Methode" Url="html/3fbe5ec7-1c6c-376b-b339-115aacf1527b.htm" />
+  <HelpKINode Title="IsZipICSharp Methode" Url="html/49ee2161-378c-244d-9c05-5ea5ec6e8bf5.htm" />
+  <HelpKINode Title="itemGroups Enumerationsmember" Url="html/73069a44-b90b-2f36-a1cf-857d002e7931.htm" />
+  <HelpKINode Title="ItemName Eigenschaft" Url="html/0c89b2be-b609-85c5-c7f3-0c518ed48e72.htm" />
+  <HelpKINode Title="itemParts Enumerationsmember" Url="html/73069a44-b90b-2f36-a1cf-857d002e7931.htm" />
+  <HelpKINode Title="items Enumerationsmember" Url="html/73069a44-b90b-2f36-a1cf-857d002e7931.htm" />
+  <HelpKINode Title="ItemsType Eigenschaft" Url="html/a383c470-9412-31d1-4ce3-b25b458cff19.htm" />
+  <HelpKINode Title="ItemsTypes Enumeration" Url="html/73069a44-b90b-2f36-a1cf-857d002e7931.htm" />
+  <HelpKINode Title="KillWorkingDirectoryAtShutdown Eigenschaft" Url="html/a00bba7e-464d-63be-f037-45a241eead38.htm" />
+  <HelpKINode Title="LastReturnObject Eigenschaft" Url="html/856cd8b0-6c02-9ef1-08f8-5380e7d4aa24.htm" />
+  <HelpKINode Title="LastWriteTime Eigenschaft" Url="html/bd8e39d5-8569-ff6d-5590-151e13afbe22.htm" />
+  <HelpKINode Title="LeftBranchWeight Eigenschaft" Url="html/16142b11-d0d0-33da-07ec-7289c1381005.htm" />
+  <HelpKINode Title="LoadSettings Methode" Url="html/3aa00257-0c67-eccc-ce7b-891ad7d8879c.htm" />
+  <HelpKINode Title="LockNameGlobal Methode" Url="html/35a382a8-4efd-fa61-bb85-89f82ac525fc.htm" />
+  <HelpKINode Title="Log Methode" Url="html/b1217978-9b56-1e3b-fa80-57d3fd1c36f8.htm" />
+  <HelpKINode Title="Logger Klasse">
+    <HelpKINode Title="Logger Klasse" Url="html/55315a60-4a00-ca8d-6160-bc3cbe696fbe.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/a16c4bd3-2fe0-417b-db0b-e409aa7b3fe4.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/3b55925b-e367-84b2-2215-a0c66ba3af73.htm" />
+    <HelpKINode Title="Methoden" Url="html/9497057c-64b8-54a6-2289-65ac8e64c65d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Logger.HandleInfo Methode" Url="html/35077b99-83d9-e94d-3dff-cb927115a57d.htm" />
+  <HelpKINode Title="Logger.Logger Konstruktor" Url="html/3b55925b-e367-84b2-2215-a0c66ba3af73.htm" />
+  <HelpKINode Title="Logger.OrganizeLoggings Methode" Url="html/a4211a73-d57e-3537-b67c-0ebb15bdff65.htm" />
+  <HelpKINode Title="Logger.StandardIndent Eigenschaft" Url="html/8048d9f6-da5b-7a69-46ce-96e2d5a0bd8f.htm" />
+  <HelpKINode Title="Logger.WriteLog Methode" Url="html/390f603b-9fbf-8234-1b8f-e1bad1fb74ed.htm" />
+  <HelpKINode Title="LoggerBase Klasse">
+    <HelpKINode Title="LoggerBase Klasse" Url="html/35ea9cc9-292c-9e9e-c63f-2a0ac899ff6d.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/95700a56-a703-a6ad-fe74-301d19b167d7.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/a70d6e8a-1820-6bdd-cd25-38d006d14045.htm" />
+    <HelpKINode Title="Methoden" Url="html/3e16e8f9-5bf9-08b4-3eba-cd651b78a474.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerBase.CutLog Methode" Url="html/328ae33d-6dd4-84cf-1740-6bca0729f60f.htm" />
+  <HelpKINode Title="LoggerBase.DebugArchiveMaxCount Eigenschaft" Url="html/ca560797-94e9-5dd9-3517-369cafbb43a3.htm" />
+  <HelpKINode Title="LoggerBase.DebugArchivingInterval Eigenschaft" Url="html/a7cc11a5-40d2-dc86-08e9-8937020251d0.htm" />
+  <HelpKINode Title="LoggerBase.Dispose Methode" Url="html/097831db-1fd3-ab07-c9cb-5feddce1879b.htm" />
+  <HelpKINode Title="LoggerBase.Finalize Methode" Url="html/c34db7cd-aabe-b5af-1244-f210164e4e4a.htm" />
+  <HelpKINode Title="LoggerBase.Flush Methode" Url="html/640da9a1-b8e9-651d-9a2a-6de6a46ac8b6.htm" />
+  <HelpKINode Title="LoggerBase.HandleInfo Methode" Url="html/d70fb2bf-b427-8c3f-28be-0ce31f1ee2f9.htm" />
+  <HelpKINode Title="LoggerBase.IsTimerTriggered Eigenschaft" Url="html/2b446309-1110-096c-8af6-b1cf565c7ae2.htm" />
+  <HelpKINode Title="LoggerBase.Log Methode" Url="html/b1217978-9b56-1e3b-fa80-57d3fd1c36f8.htm" />
+  <HelpKINode Title="LoggerBase.LoggerBase Konstruktor" Url="html/a70d6e8a-1820-6bdd-cd25-38d006d14045.htm" />
+  <HelpKINode Title="LoggerBase.LoggingTriggerCounter Eigenschaft" Url="html/dc812682-f72b-209f-c59f-2f9cb10865d2.htm" />
+  <HelpKINode Title="LoggerBase.LogTargetInfo Eigenschaft" Url="html/7a7cb6c0-d6c3-063c-25f6-ef89b85c624d.htm" />
+  <HelpKINode Title="LoggerBase.MaxBufferLineCount Eigenschaft" Url="html/3fa08e05-4ef0-1768-adf5-0addb0a0c5cc.htm" />
+  <HelpKINode Title="LoggerBase.OrganizeLoggings Methode" Url="html/fec4bcf0-c1d3-0418-342b-57e9df335ecb.htm" />
+  <HelpKINode Title="LoggerBase.PlainMessage Eigenschaft" Url="html/95a8fc5d-9dc0-f744-c1bf-986714b93006.htm" />
+  <HelpKINode Title="LoggerBase.WriteLog Methode" Url="html/3a1f8097-7b36-96d0-d436-205898d60b0b.htm" />
+  <HelpKINode Title="LoggingTriggerCounter Eigenschaft">
+    <HelpKINode Title="LoggerBase.LoggingTriggerCounter Eigenschaft " Url="html/dc812682-f72b-209f-c59f-2f9cb10865d2.htm" />
+    <HelpKINode Title="Statistics.LoggingTriggerCounter Eigenschaft " Url="html/7ed896b7-0d05-16aa-ca7e-7746143c4961.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogLevel Eigenschaft" Url="html/a79ab21b-3c84-cb84-c5ae-ac88ccbe9792.htm" />
+  <HelpKINode Title="LogLevelText Eigenschaft" Url="html/0e572d33-66d4-7ec7-d8ad-271d8efb3c75.htm" />
+  <HelpKINode Title="LogSql Eigenschaft" Url="html/068aac7e-6dd9-4543-47e5-da8f65ff50e9.htm" />
+  <HelpKINode Title="LogTargetInfo Eigenschaft" Url="html/7a7cb6c0-d6c3-063c-25f6-ef89b85c624d.htm" />
+  <HelpKINode Title="MachineName Eigenschaft" Url="html/42157f66-fd63-27f4-e52b-1bae73aa4f93.htm" />
+  <HelpKINode Title="MaxBufferLineCount Eigenschaft" Url="html/3fa08e05-4ef0-1768-adf5-0addb0a0c5cc.htm" />
+  <HelpKINode Title="MessageObject Eigenschaft" Url="html/e4fed94a-9108-60a6-607f-cbea765a5fbe.htm" />
+  <HelpKINode Title="Milestone Enumerationsmember" Url="html/df95802a-a5eb-f85c-7e70-be764b2ce9ef.htm" />
+  <HelpKINode Title="MinProgrammVersion Eigenschaft" Url="html/9802e010-c7cf-7e3c-586a-2cd64b375c06.htm" />
+  <HelpKINode Title="Mother Feld" Url="html/b2437529-f202-45df-33bf-78857312685d.htm" />
+  <HelpKINode Title="MSGetZipEntryList Methode" Url="html/bd6d1710-33bb-a519-6ad4-6d9a9ac11409.htm" />
+  <HelpKINode Title="MSZipUnZipArchive Methode" Url="html/c0cda352-6bfc-e35f-ee00-70d00a9fb099.htm" />
+  <HelpKINode Title="Name Eigenschaft" Url="html/34ebab02-536a-266a-077b-29216655a9f2.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl Namensraum" Url="html/c3e71f22-ee15-7f91-4ff1-7e7bce597a8a.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.Exceptioner Klasse" Url="html/8053b94f-a533-22d2-91aa-9c2634335266.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.ExtendedException Klasse" Url="html/88acb23c-20f4-e06b-9c34-201c9838c54d.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.IFlushable Schnittstelle" Url="html/faccb484-5bce-fe7b-212c-f578297df048.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.IInfoController Schnittstelle" Url="html/e65ddeaa-e00c-4385-92a1-b23c056a5cdb.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.IInfoPublisher Schnittstelle" Url="html/aeb9c78c-e22a-f274-ed36-e7ae226ded30.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.IInfoSource Schnittstelle" Url="html/837bd807-f8ae-1634-1f36-ee42256e39e0.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.IInfoViewer Schnittstelle" Url="html/6f9834b9-a79e-28c4-8790-332eefa6aa25.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.InfoArgs Klasse" Url="html/5b8d08e1-68ce-a830-3477-9d678fd34019.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.InfoController Klasse" Url="html/f10e9fb7-7099-24dd-f9bb-64ea7c3a6765.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.InfoType Enumeration" Url="html/df95802a-a5eb-f85c-7e70-be764b2ce9ef.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.InfoTypes Klasse" Url="html/16f6173b-0478-ce50-6137-4ed5af8729cc.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.Logger Klasse" Url="html/55315a60-4a00-ca8d-6160-bc3cbe696fbe.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.LoggerBase Klasse" Url="html/35ea9cc9-292c-9e9e-c63f-2a0ac899ff6d.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.ProgressTimer Klasse" Url="html/dc99a7ec-4866-ac16-9f51-43a04fc57760.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.Statistics Klasse" Url="html/4d933226-7a5c-0909-9b7c-e56973707024.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.TaskWorker Klasse" Url="html/3fc0572f-edf7-af9f-764d-6cc86b10335a.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.TaskWorkerStatus Enumeration" Url="html/d9f04c8b-dab6-2370-1a45-2f4b811f3339.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.Threader Klasse" Url="html/7db2576e-8626-9891-ab05-fda59fc565fe.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.ThreaderException Klasse" Url="html/e292727e-1201-c523-35e7-87dfdbaecf92.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.ThreadWorkerHandler Delegat" Url="html/f26c58e3-7768-81d6-59a3-7829c44afcba.htm" />
+  <HelpKINode Title="NetEti.ApplicationControl.ViewerAsWrapper Klasse" Url="html/9e03340e-73cc-0a06-db44-39786ee06048.htm" />
+  <HelpKINode Title="NetEti.ApplicationEnvironment Namensraum" Url="html/1281145f-b149-8f9d-5f0d-b779e5190be4.htm" />
+  <HelpKINode Title="NetEti.ApplicationEnvironment.AppEnvReader Klasse" Url="html/5f342195-e474-d201-cb51-8a2e578ee7c5.htm" />
+  <HelpKINode Title="NetEti.ApplicationEnvironment.AppSettingsRegistry Klasse" Url="html/6e79a18d-c8bd-205c-e4bc-3afd7f45a3ed.htm" />
+  <HelpKINode Title="NetEti.ApplicationEnvironment.BasicAppSettings Klasse" Url="html/b2ded4c5-8f7f-e150-9ed8-77a7029ce8c2.htm" />
+  <HelpKINode Title="NetEti.ApplicationEnvironment.CommandLineAccess Klasse" Url="html/02e52d67-96ea-ca99-bfcf-dc06bace6d29.htm" />
+  <HelpKINode Title="NetEti.ApplicationEnvironment.EnvAccess Klasse" Url="html/6c660993-b8c6-60c5-c28f-de5a4472c6c9.htm" />
+  <HelpKINode Title="NetEti.ApplicationEnvironment.PropertyAccess Klasse" Url="html/1a891bea-b850-fe01-51cd-e5849b25ee92.htm" />
+  <HelpKINode Title="NetEti.ApplicationEnvironment.RegAccess Klasse" Url="html/df34844f-7207-f111-774b-e514aa52a208.htm" />
+  <HelpKINode Title="NetEti.ApplicationEnvironment.RegistryRoot Enumeration" Url="html/24421dba-383c-1c38-81cb-868a5621d27e.htm" />
+  <HelpKINode Title="NetEti.ApplicationEnvironment.SettingsAccess Klasse" Url="html/b07c1dff-5d83-ef97-e16d-76652e2224a4.htm" />
+  <HelpKINode Title="NetEti.FileTools Namensraum" Url="html/7c83605d-127c-05ff-3d1c-ed3c149ef41d.htm" />
+  <HelpKINode Title="NetEti.FileTools.FileWatcherTrigger Klasse" Url="html/eefae80a-89f8-f07a-340c-d1c54b180ee1.htm" />
+  <HelpKINode Title="NetEti.FileTools.IniAccess Klasse" Url="html/e668bcfb-b973-fba7-3f93-d994de4ffaab.htm" />
+  <HelpKINode Title="NetEti.FileTools.NetworkMappingsRefresher Klasse" Url="html/e9fa5a05-7802-26e5-0b62-21f454c5dd23.htm" />
+  <HelpKINode Title="NetEti.FileTools.TriggerEvent Klasse" Url="html/dd666a16-c4bd-c7ca-67d3-5112912111a8.htm" />
+  <HelpKINode Title="NetEti.FileTools.XmlAccess Klasse" Url="html/a96e0d21-df90-5094-cd48-a78a6cd7ec38.htm" />
+  <HelpKINode Title="NetEti.FileTools.XmlAccessException Klasse" Url="html/38e95241-998e-d5ba-6fde-c7dc4fbb5de6.htm" />
+  <HelpKINode Title="NetEti.FileTools.Zip Namensraum" Url="html/892f52d4-d648-9ca6-0403-07a08af63379.htm" />
+  <HelpKINode Title="NetEti.FileTools.Zip.ZipAccess Klasse" Url="html/6b115ae3-be5a-6043-0c90-668d5e771232.htm" />
+  <HelpKINode Title="NetEti.FileTools.Zip.ZippedFileInfo Klasse" Url="html/37926cf9-7c17-7f48-eeec-c3117de2220f.htm" />
+  <HelpKINode Title="NetEti.Globals Namensraum" Url="html/8c2c02ed-9051-e827-f13a-e59558ede18c.htm" />
+  <HelpKINode Title="NetEti.Globals.AssemblyLoader Klasse" Url="html/66bccca0-832e-77f7-e901-8e65fdf1c191.htm" />
+  <HelpKINode Title="NetEti.Globals.CommonProgressChangedEventArgs Klasse" Url="html/01cc13dc-7677-646e-d9dd-228f1c99f2a6.htm" />
+  <HelpKINode Title="NetEti.Globals.CommonProgressChangedEventHandler Delegat" Url="html/3bdcc78d-bd5b-932e-dc45-74aced354bf0.htm" />
+  <HelpKINode Title="NetEti.Globals.CommonProgressFinishedEventHandler Delegat" Url="html/67b85c87-4ffc-2c25-daa7-78f015d45859.htm" />
+  <HelpKINode Title="NetEti.Globals.DictionaryThreadSafeCopy(Of T, U) Klasse" Url="html/32841378-72f5-0ab0-2442-3bda517b572e.htm" />
+  <HelpKINode Title="NetEti.Globals.DictionaryThreadSafeCopy&lt;T, U&gt; Klasse" Url="html/32841378-72f5-0ab0-2442-3bda517b572e.htm" />
+  <HelpKINode Title="NetEti.Globals.EnumerableThreadSafeCopy(Of T) Klasse" Url="html/29f193b2-81d3-d6c1-26da-811674cc5edf.htm" />
+  <HelpKINode Title="NetEti.Globals.EnumerableThreadSafeCopy&lt;T&gt; Klasse" Url="html/29f193b2-81d3-d6c1-26da-811674cc5edf.htm" />
+  <HelpKINode Title="NetEti.Globals.GenericNonSingletonProvider Klasse" Url="html/930c5af0-428a-290f-a9b2-1b45c725de54.htm" />
+  <HelpKINode Title="NetEti.Globals.GenericSingletonProvider Klasse" Url="html/516b303f-93dd-1ed8-75f7-0e38c982eb61.htm" />
+  <HelpKINode Title="NetEti.Globals.GenericTree(Of T) Klasse" Url="html/89b3ba52-8403-f018-f50d-7cff1d0f4e49.htm" />
+  <HelpKINode Title="NetEti.Globals.GenericTree&lt;T&gt; Klasse" Url="html/89b3ba52-8403-f018-f50d-7cff1d0f4e49.htm" />
+  <HelpKINode Title="NetEti.Globals.Global Klasse" Url="html/b1d614fc-ec33-eefc-2330-e466f6fc4d73.htm" />
+  <HelpKINode Title="NetEti.Globals.IGetStringValue Schnittstelle" Url="html/1b092189-b6ad-8b90-eee1-96cd7a007f78.htm" />
+  <HelpKINode Title="NetEti.Globals.IGetValue Schnittstelle" Url="html/344047af-5ba8-59d6-2412-a6d0aa369805.htm" />
+  <HelpKINode Title="NetEti.Globals.ItemsTypes Enumeration" Url="html/73069a44-b90b-2f36-a1cf-857d002e7931.htm" />
+  <HelpKINode Title="NetEti.Globals.ThreadInfos Klasse" Url="html/e665740c-8a26-a526-7f6c-6646c9258b6b.htm" />
+  <HelpKINode Title="NetEti.Globals.ThreadLocker Klasse" Url="html/5a39f555-c3e4-3587-14e9-e82e28966f55.htm" />
+  <HelpKINode Title="NetEti.MultiScreen Namensraum" Url="html/dcf07388-4574-13c5-4578-d6653596b739.htm" />
+  <HelpKINode Title="NetEti.MultiScreen.ScreenInfo Klasse" Url="html/2c0db559-a887-c50c-77c8-9181d4b134d5.htm" />
+  <HelpKINode Title="NetEti.MVVMini Namensraum" Url="html/fdd8952b-beb7-85cd-dac2-0d46b9b4af74.htm" />
+  <HelpKINode Title="NetEti.MVVMini.INotifyPropertiesChanged Schnittstelle" Url="html/026e1a2b-d1a1-34ed-ddcc-3770443ee8a2.htm" />
+  <HelpKINode Title="NetEti.MVVMini.IRelayCommand Schnittstelle" Url="html/b4dcbf20-dc2f-2444-48a1-6e9073dcce62.htm" />
+  <HelpKINode Title="NetEti.MVVMini.ObservableObject Klasse" Url="html/71200332-9849-621c-c4e1-9c4337f5ed21.htm" />
+  <HelpKINode Title="NetEti.MVVMini.PropertiesChangedEventArgs Klasse" Url="html/cc8a7f1c-c4b2-986f-81d3-37e7451258fe.htm" />
+  <HelpKINode Title="NetEti.MVVMini.PropertiesChangedEventHandler Delegat" Url="html/06706f7b-80c0-f4bd-d30e-f3ca73e9a5ff.htm" />
+  <HelpKINode Title="NetEti.MVVMini.PropertySupport Klasse" Url="html/0d6f419d-c442-b490-1318-fba191bb2c16.htm" />
+  <HelpKINode Title="NetEti.MVVMini.RelayCommand Klasse" Url="html/aa81a480-4044-2e80-5334-eb0f17c0a699.htm" />
+  <HelpKINode Title="NetEti.ObjectSerializer Namensraum" Url="html/ebb7bb18-54e9-191f-d2ae-cd929e84af9e.htm" />
+  <HelpKINode Title="NetEti.ObjectSerializer.XMLSerializationUtility Klasse" Url="html/5ddf567e-ecf0-a71f-5099-d72101b015aa.htm" />
+  <HelpKINode Title="NetworkMappingsRefresher Klasse">
+    <HelpKINode Title="NetworkMappingsRefresher Klasse" Url="html/e9fa5a05-7802-26e5-0b62-21f454c5dd23.htm" />
+    <HelpKINode Title="Methoden" Url="html/405c90b7-b5f5-9c79-e3e3-95ae2a8f4c42.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NetworkMappingsRefresher.Refresh Methode" Url="html/48689912-be68-ccfa-7a3f-1860cb4903e2.htm" />
+  <HelpKINode Title="Nolog Enumerationsmember" Url="html/df95802a-a5eb-f85c-7e70-be764b2ce9ef.htm" />
+  <HelpKINode Title="None Feld" Url="html/dfd54f66-e925-e743-cd6b-8dbe7f77dffc.htm" />
+  <HelpKINode Title="NoRegex Enumerationsmember" Url="html/df95802a-a5eb-f85c-7e70-be764b2ce9ef.htm" />
+  <HelpKINode Title="ObservableObject Klasse">
+    <HelpKINode Title="ObservableObject Klasse" Url="html/71200332-9849-621c-c4e1-9c4337f5ed21.htm" />
+    <HelpKINode Title="Ereignisse" Url="html/30c040cc-0dad-796b-a6ee-2d96c9c70860.htm" />
+    <HelpKINode Title="Felder" Url="html/9dddae4e-7d2f-3d3c-8df6-5ae5bf6a0b2b.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/e4d6479d-023f-6127-b813-e8eee8c4b33f.htm" />
+    <HelpKINode Title="Methoden" Url="html/8752fd5d-e872-8a74-6fbf-1dfdeb83fe16.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObservableObject.Dispatcher Feld" Url="html/9f5fb61f-9489-6185-4713-f0dd08e8cbd7.htm" />
+  <HelpKINode Title="ObservableObject.ObservableObject Konstruktor" Url="html/e4d6479d-023f-6127-b813-e8eee8c4b33f.htm" />
+  <HelpKINode Title="ObservableObject.OnPropertyChanged Methode" Url="html/cbd1c10e-b864-d40e-1a7a-fac9a8175b0d.htm" />
+  <HelpKINode Title="ObservableObject.PropertyChanged Ereignis" Url="html/f15bcaaa-45d7-de71-531a-2085e81f696a.htm" />
+  <HelpKINode Title="ObservableObject.RaisePropertyChanged Methode" Url="html/5ce4bcd3-9e8a-966c-ac50-09398b19eb4e.htm" />
+  <HelpKINode Title="ObservableObject.VerifyCalledOnUIThread Methode" Url="html/8a263827-e7e1-57aa-14bf-fad3e256d3b3.htm" />
+  <HelpKINode Title="OnError Methode" Url="html/84b02b89-fe81-9763-943d-eff3743a70cf.htm" />
+  <HelpKINode Title="OnPropertyChanged Methode" Url="html/cbd1c10e-b864-d40e-1a7a-fac9a8175b0d.htm" />
+  <HelpKINode Title="OnTaskProgressChanged Methode" Url="html/fde2cc04-91fd-7730-9bcb-d5fcec174ab1.htm" />
+  <HelpKINode Title="OnTaskProgressFinished Methode" Url="html/a0ac5ec5-fa5a-3351-262c-2ea8eab04593.htm" />
+  <HelpKINode Title="OnTriggerFired Methode" Url="html/c510efa9-e6a3-4957-20a4-6ecbad425982.htm" />
+  <HelpKINode Title="OrganizeLoggings Methode">
+    <HelpKINode Title="Logger.OrganizeLoggings Methode " Url="html/a4211a73-d57e-3537-b67c-0ebb15bdff65.htm" />
+    <HelpKINode Title="LoggerBase.OrganizeLoggings Methode " Url="html/fec4bcf0-c1d3-0418-342b-57e9df335ecb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OSVersion Eigenschaft" Url="html/470f61b0-3c2d-987d-7350-5c3fabd63dd2.htm" />
+  <HelpKINode Title="OSVersionMajor Eigenschaft" Url="html/e68a4ac1-f2b3-f5c0-23c4-356b4b6b1d24.htm" />
+  <HelpKINode Title="PercentMilliseconds Eigenschaft" Url="html/864d1c0a-1c99-3c0e-ea56-9552e948a2d3.htm" />
+  <HelpKINode Title="PlainMessage Eigenschaft" Url="html/95a8fc5d-9dc0-f744-c1bf-986714b93006.htm" />
+  <HelpKINode Title="ProcessId Eigenschaft" Url="html/301062a4-696f-e931-afc7-cb6798b85e73.htm" />
+  <HelpKINode Title="ProcessName Eigenschaft" Url="html/cb35f150-7a2d-4bd6-26f0-189a2c638cdf.htm" />
+  <HelpKINode Title="Processor Eigenschaft" Url="html/4c420a03-6b5e-e64c-e4b2-f61c7db59aac.htm" />
+  <HelpKINode Title="ProcessorCount Eigenschaft" Url="html/8f7dcc51-28dd-f709-f133-ecc78befc62d.htm" />
+  <HelpKINode Title="ProgrammVersion Eigenschaft" Url="html/1883d64e-bbb9-9a6e-fc27-eeb8a56704ad.htm" />
+  <HelpKINode Title="ProgressChanged Ereignis" Url="html/804f0afc-4681-57bb-3d71-919749ea677f.htm" />
+  <HelpKINode Title="ProgressFinished Ereignis" Url="html/57976a2a-e6c4-4428-8110-d8533d09d49a.htm" />
+  <HelpKINode Title="ProgressTimer Klasse">
+    <HelpKINode Title="ProgressTimer Klasse" Url="html/dc99a7ec-4866-ac16-9f51-43a04fc57760.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/72f9f7f7-434e-bc1f-4616-be79f532ae1b.htm" />
+    <HelpKINode Title="Ereignisse" Url="html/717031eb-2708-685b-146e-6d2431520e26.htm" />
+    <HelpKINode Title="Felder" Url="html/78c83bd4-2ee6-1ef4-f81b-5aa2dbe2c70d.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/aa6f5288-0fc4-a4d7-887b-7215c60f9d3c.htm" />
+    <HelpKINode Title="Methoden" Url="html/dc823167-5cbc-7111-313a-ab555953ab26.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ProgressTimer.Chain Methode" Url="html/1595b282-3b90-13ed-6ed3-43ef708e4a7f.htm" />
+  <HelpKINode Title="ProgressTimer.ChainWeight Eigenschaft" Url="html/8e1bccfe-c087-1dee-e67f-af617decb1b5.htm" />
+  <HelpKINode Title="ProgressTimer.Dispose Methode" Url="html/414db83a-cf76-0783-bc1d-14a0d8f27f29.htm" />
+  <HelpKINode Title="ProgressTimer.Finalize Methode" Url="html/53568ced-9801-5e10-a0fb-930fa6cb79c7.htm" />
+  <HelpKINode Title="ProgressTimer.Finish Methode" Url="html/1cf387bf-5016-0a8a-533e-6cb3a794b62c.htm" />
+  <HelpKINode Title="ProgressTimer.FinishChain Methode" Url="html/535cea74-7cb3-7b15-138c-332e8cb4d238.htm" />
+  <HelpKINode Title="ProgressTimer.Head Eigenschaft" Url="html/cbad3701-ac36-6169-75b8-babced5eebe6.htm" />
+  <HelpKINode Title="ProgressTimer.IsBreaked Eigenschaft" Url="html/557adc60-671f-ee55-ca2d-4b0f45088228.htm" />
+  <HelpKINode Title="ProgressTimer.LeftBranchWeight Eigenschaft" Url="html/16142b11-d0d0-33da-07ec-7289c1381005.htm" />
+  <HelpKINode Title="ProgressTimer.PercentMilliseconds Eigenschaft" Url="html/864d1c0a-1c99-3c0e-ea56-9552e948a2d3.htm" />
+  <HelpKINode Title="ProgressTimer.ProcessName Eigenschaft" Url="html/cb35f150-7a2d-4bd6-26f0-189a2c638cdf.htm" />
+  <HelpKINode Title="ProgressTimer.ProgressChanged Ereignis" Url="html/804f0afc-4681-57bb-3d71-919749ea677f.htm" />
+  <HelpKINode Title="ProgressTimer.ProgressFinished Ereignis" Url="html/57976a2a-e6c4-4428-8110-d8533d09d49a.htm" />
+  <HelpKINode Title="ProgressTimer.ProgressTimer Konstruktor" Url="html/aa6f5288-0fc4-a4d7-887b-7215c60f9d3c.htm" />
+  <HelpKINode Title="ProgressTimer.RightBranchWeight Eigenschaft" Url="html/6967640e-7ec3-0317-1b50-a9c13e2eb81c.htm" />
+  <HelpKINode Title="ProgressTimer.Start Methode" Url="html/3e67840d-a6b2-c77c-dbfa-b52fd8981c3b.htm" />
+  <HelpKINode Title="ProgressTimer.Tail Eigenschaft" Url="html/726d5187-fd97-8bc8-9629-90d5f93df7a9.htm" />
+  <HelpKINode Title="ProgressTimer.Unchain Methode" Url="html/92dd3229-cfc4-364c-edf0-020963010f52.htm" />
+  <HelpKINode Title="ProgressTimer.Value Eigenschaft" Url="html/b0049e0c-d996-6469-c5da-3d4b9f051840.htm" />
+  <HelpKINode Title="ProgressTimer.Weight Eigenschaft" Url="html/1b8c1c66-a6ca-6e87-0f55-cfcd3719621c.htm" />
+  <HelpKINode Title="ProgressTimer.WorkingRoutine Feld" Url="html/15cdcd0a-b389-7219-ffb5-01997e42ad42.htm" />
+  <HelpKINode Title="Properties Eigenschaft" Url="html/d227d81c-2262-1aec-2af9-46093cce213d.htm" />
+  <HelpKINode Title="PropertiesChanged Ereignis" Url="html/a11bb094-9374-6d1c-f0cf-da4750c756c7.htm" />
+  <HelpKINode Title="PropertiesChangedEventArgs Klasse">
+    <HelpKINode Title="PropertiesChangedEventArgs Klasse" Url="html/cc8a7f1c-c4b2-986f-81d3-37e7451258fe.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/2c6ca94e-8876-e8bb-75ec-471e349c44a1.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/540a0b93-0faf-2f41-6b9b-7750e19b3769.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertiesChangedEventArgs.Properties Eigenschaft" Url="html/d227d81c-2262-1aec-2af9-46093cce213d.htm" />
+  <HelpKINode Title="PropertiesChangedEventArgs.PropertiesChangedEventArgs Konstruktor" Url="html/540a0b93-0faf-2f41-6b9b-7750e19b3769.htm" />
+  <HelpKINode Title="PropertiesChangedEventHandler Delegat" Url="html/06706f7b-80c0-f4bd-d30e-f3ca73e9a5ff.htm" />
+  <HelpKINode Title="PropertyAccess Klasse">
+    <HelpKINode Title="PropertyAccess Klasse" Url="html/1a891bea-b850-fe01-51cd-e5849b25ee92.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/06f41eb0-8427-95f7-bd9b-e2650a80eb1e.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/a7d6f724-02a6-afac-6189-64a75c533d9b.htm" />
+    <HelpKINode Title="Methoden" Url="html/2a2c219c-b51d-c4a9-a4c1-d1a49871f298.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertyAccess.Description Eigenschaft" Url="html/4c69bae6-d2b8-0111-d5fd-2e3634af942a.htm" />
+  <HelpKINode Title="PropertyAccess.GetStringValue Methode" Url="html/bd89cef4-8712-cd7c-39b7-815369f5ad74.htm" />
+  <HelpKINode Title="PropertyAccess.GetStringValues Methode" Url="html/ded0bb96-76aa-f6dd-9c28-9fb14f94bf7a.htm" />
+  <HelpKINode Title="PropertyAccess.GetValue(Of T) Methode" Url="html/8061ecc2-cd88-c3e1-d91e-eaf97905ae53.htm" />
+  <HelpKINode Title="PropertyAccess.GetValue&lt;T&gt; Methode" Url="html/8061ecc2-cd88-c3e1-d91e-eaf97905ae53.htm" />
+  <HelpKINode Title="PropertyAccess.PropertyAccess Konstruktor" Url="html/a7d6f724-02a6-afac-6189-64a75c533d9b.htm" />
+  <HelpKINode Title="PropertyChanged Ereignis" Url="html/f15bcaaa-45d7-de71-531a-2085e81f696a.htm" />
+  <HelpKINode Title="PropertySupport Klasse">
+    <HelpKINode Title="PropertySupport Klasse" Url="html/0d6f419d-c442-b490-1318-fba191bb2c16.htm" />
+    <HelpKINode Title="Methoden" Url="html/5d348735-6e41-3c3d-2e0b-6a4fc2144a60.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertySupport.ExtractPropertyName(Of T) Methode" Url="html/1652577a-c221-ec83-b9c1-cf257500f576.htm" />
+  <HelpKINode Title="PropertySupport.ExtractPropertyName&lt;T&gt; Methode" Url="html/1652577a-c221-ec83-b9c1-cf257500f576.htm" />
+  <HelpKINode Title="PropertySupport.VerifyPropertyName Methode" Url="html/12bbce51-f7ed-8605-a311-7cabe84a79d7.htm" />
+  <HelpKINode Title="Publish Methode">
+    <HelpKINode Title="IInfoPublisher.Publish Methode " Url="html/991db73e-de77-669b-75c7-331cd5003a62.htm" />
+    <HelpKINode Title="InfoController.Publish Methode " Url="html/28abbc86-84d6-1510-06b9-ffebda4cfc5f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RaisePropertyChanged Methode" Url="html/5ce4bcd3-9e8a-966c-ac50-09398b19eb4e.htm" />
+  <HelpKINode Title="ReadSetting Methode" Url="html/9e6bf563-9b48-0085-b449-a89879fce89e.htm" />
+  <HelpKINode Title="Ready Enumerationsmember" Url="html/d9f04c8b-dab6-2370-1a45-2f4b811f3339.htm" />
+  <HelpKINode Title="Refresh Methode" Url="html/48689912-be68-ccfa-7a3f-1860cb4903e2.htm" />
+  <HelpKINode Title="RegAccess Klasse">
+    <HelpKINode Title="RegAccess Klasse" Url="html/df34844f-7207-f111-774b-e514aa52a208.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/270ac681-15b1-9a21-43ce-e549bf6e1192.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/ad6e6564-5cc3-b357-8894-e23425fa11bd.htm" />
+    <HelpKINode Title="Methoden" Url="html/61285da9-410d-c986-2951-f18c63d917d7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RegAccess.CurrentRegistryRoot Eigenschaft" Url="html/05df7717-9bdf-932f-4dde-22911e73b525.htm" />
+  <HelpKINode Title="RegAccess.Description Eigenschaft" Url="html/b8714621-9bd9-b0a3-bb23-8ad299bd8d38.htm" />
+  <HelpKINode Title="RegAccess.GetStringValue Methode" Url="html/899d6a8a-926a-e9d5-53a0-c95cd22b173b.htm" />
+  <HelpKINode Title="RegAccess.GetStringValues Methode" Url="html/98b226e6-7a9e-a054-75db-5058445c9d9a.htm" />
+  <HelpKINode Title="RegAccess.GetSubKeyNames Methode" Url="html/3b701958-cc72-8388-8c71-2d6b36e33b18.htm" />
+  <HelpKINode Title="RegAccess.GetSubValueNames Methode" Url="html/a4dc6b6e-974a-ffb6-55de-604fd1db1e61.htm" />
+  <HelpKINode Title="RegAccess.RegAccess Konstruktor" Url="html/ad6e6564-5cc3-b357-8894-e23425fa11bd.htm" />
+  <HelpKINode Title="RegAccess.RegistryBasePath Eigenschaft" Url="html/81144f01-8974-a8b0-7502-e195b6428651.htm" />
+  <HelpKINode Title="RegAccess.SetRegistryBasePath Methode" Url="html/6f32db82-156f-b20c-6abf-ed5b9657c472.htm" />
+  <HelpKINode Title="RegAccessor Eigenschaft" Url="html/ecfd5398-b3f0-5f4e-5aed-62f37a7baf30.htm" />
+  <HelpKINode Title="RegexFilter Eigenschaft" Url="html/f5038aad-b711-8765-7d7e-a0bbd8e75108.htm" />
+  <HelpKINode Title="RegisterInfoReceiver Methode">
+    <HelpKINode Title="IInfoSource.RegisterInfoReceiver Methode " Url="html/4c13ec4c-6e8c-3660-25a4-d517c8c99e21.htm" />
+    <HelpKINode Title="InfoController.RegisterInfoReceiver Methode " Url="html/9fdd8e0c-5cc7-ca8c-4f19-5a29469f40ed.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RegisterKeyValue Methode">
+    <HelpKINode Title="AppEnvReader.RegisterKeyValue Methode " Url="html/4770afff-0629-9623-efad-719cee25618e.htm" />
+    <HelpKINode Title="AppSettingsRegistry.RegisterKeyValue Methode " Url="html/418f817b-8e3c-5973-443c-9d03ef82f759.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RegisterStringValueGetter Methode" Url="html/e9ad741c-722e-4a35-6366-173824b2a9bf.htm" />
+  <HelpKINode Title="RegisterStringValueGetterAt Methode" Url="html/88611a39-e8d4-0d84-e49d-01309c352737.htm" />
+  <HelpKINode Title="RegisterStringValueGetterBefore Methode" Url="html/fcb2fdbc-f054-1141-c1d8-215eb5428d28.htm" />
+  <HelpKINode Title="RegistryBasePath Eigenschaft">
+    <HelpKINode Title="BasicAppSettings.RegistryBasePath Eigenschaft " Url="html/73dec00c-e2fd-17ec-c331-812bb0b9a486.htm" />
+    <HelpKINode Title="RegAccess.RegistryBasePath Eigenschaft " Url="html/81144f01-8974-a8b0-7502-e195b6428651.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RegistryRoot Enumeration" Url="html/24421dba-383c-1c38-81cb-868a5621d27e.htm" />
+  <HelpKINode Title="RelayCommand Klasse">
+    <HelpKINode Title="RelayCommand Klasse" Url="html/aa81a480-4044-2e80-5334-eb0f17c0a699.htm" />
+    <HelpKINode Title="Ereignisse" Url="html/311be869-1b3e-3387-2c0b-40e610c99189.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/460738de-4a9e-948c-f0bf-bc42bbc66832.htm" />
+    <HelpKINode Title="Methoden" Url="html/d5d1fa52-cdc2-6889-5cef-726e4a68ebc2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RelayCommand.CanExecute Methode" Url="html/c568b687-67d2-33c6-77b7-f92c6b00b75e.htm" />
+  <HelpKINode Title="RelayCommand.CanExecuteChanged Ereignis" Url="html/d6833ee9-4de3-a1fd-22b9-c6d83456ebc5.htm" />
+  <HelpKINode Title="RelayCommand.Execute Methode" Url="html/e523fe67-5ab6-360c-1951-c55c738ddd4e.htm" />
+  <HelpKINode Title="RelayCommand.RelayCommand Konstruktor" Url="html/460738de-4a9e-948c-f0bf-bc42bbc66832.htm" />
+  <HelpKINode Title="RelayCommand.UpdateCanExecuteState Methode" Url="html/5cd6025e-8dd9-6aa8-bfc7-86862e9d7d5a.htm" />
+  <HelpKINode Title="RememberParameterSource Methode" Url="html/08c8ecc3-9faf-ba35-614d-492cfd2be92a.htm" />
+  <HelpKINode Title="ReplaceWildcards Methode" Url="html/81a6b755-99b8-6679-7c0f-279abd05f005.htm" />
+  <HelpKINode Title="Reset Methode">
+    <HelpKINode Title="Statistics.Reset Methode " Url="html/9c1dc6d4-8fde-2cb9-0ff1-920dfd2d086a.htm" />
+    <HelpKINode Title="Threader.Reset Methode " Url="html/02a36d26-a01f-9ffa-757f-66b52ed395c6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RightBranchWeight Eigenschaft" Url="html/6967640e-7ec3-0317-1b50-a9c13e2eb81c.htm" />
+  <HelpKINode Title="Running Enumerationsmember" Url="html/d9f04c8b-dab6-2370-1a45-2f4b811f3339.htm" />
+  <HelpKINode Title="RunningCounter Eigenschaft" Url="html/7753411b-28c7-acd7-e3df-57ba7a1e23ad.htm" />
+  <HelpKINode Title="RunTask Methode" Url="html/20c1781d-5543-9d8b-e886-0304dddd68c1.htm" />
+  <HelpKINode Title="SaveColumnDelimiter Feld" Url="html/ea57c59e-b7f0-ee59-8062-391f0ffdbbf1.htm" />
+  <HelpKINode Title="Say Methode" Url="html/7fae0cd6-cdfe-2b31-9569-88e42b597f69.htm" />
+  <HelpKINode Title="ScreenInfo Klasse">
+    <HelpKINode Title="ScreenInfo Klasse" Url="html/2c0db559-a887-c50c-77c8-9181d4b134d5.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/3014b7f1-7338-be3a-7aaf-7a74d365d7cd.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/3f9921a2-e69d-4a86-cf82-c3f6520fa7f5.htm" />
+    <HelpKINode Title="Methoden" Url="html/d2ab6028-cd22-bfb6-97f2-14b8ed5a748c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ScreenInfo.Bounds Eigenschaft" Url="html/669777eb-d79b-fbdf-cf87-edebf561f977.htm" />
+  <HelpKINode Title="ScreenInfo.GetActualScreenInfo Methode" Url="html/5bcd70d2-58cf-67a7-3d48-6a0abc151cbb.htm" />
+  <HelpKINode Title="ScreenInfo.GetAllScreenInfos Methode" Url="html/a883dca4-4186-b81c-92d9-50fad2949f8c.htm" />
+  <HelpKINode Title="ScreenInfo.GetLastActualScreenInfo Methode" Url="html/f6258fba-53d9-22d1-987e-05e566de5a06.htm" />
+  <HelpKINode Title="ScreenInfo.GetNextPointWithinActualScreenCoordinates Methode" Url="html/0b444964-9c7e-81e6-71f1-1559da7120b2.htm" />
+  <HelpKINode Title="ScreenInfo.IsPrimary Eigenschaft" Url="html/bac0baf3-58fb-d911-d40d-547becf521cd.htm" />
+  <HelpKINode Title="ScreenInfo.IsWithinActualScreenCoordinates Methode" Url="html/bd30ed34-5a68-4d1b-8227-5e51e9683694.htm" />
+  <HelpKINode Title="ScreenInfo.Name Eigenschaft" Url="html/34ebab02-536a-266a-077b-29216655a9f2.htm" />
+  <HelpKINode Title="ScreenInfo.ScreenInfo Konstruktor" Url="html/3f9921a2-e69d-4a86-cf82-c3f6520fa7f5.htm" />
+  <HelpKINode Title="ScreenInfo.WorkingArea Eigenschaft" Url="html/fafcca6a-9fc2-3eb7-b35f-edfd31edc69f.htm" />
+  <HelpKINode Title="SearchDirectory Eigenschaft" Url="html/a08ee7a0-0011-c296-48d9-2019edbb2713.htm" />
+  <HelpKINode Title="SerializeObject Methode" Url="html/7d56462c-203f-7640-ebd4-10f155ac135c.htm" />
+  <HelpKINode Title="SerializeObjectToBase64 Methode" Url="html/cbf26907-b0d1-1873-0501-daa137cfe28b.htm" />
+  <HelpKINode Title="Serious Feld" Url="html/936d6881-d901-293e-67a4-f03a503cb915.htm" />
+  <HelpKINode Title="SetDefaultSQLDirectories Methode" Url="html/3dd9cb2d-7793-6c5a-26ac-04405cf4e400.htm" />
+  <HelpKINode Title="SetRegistryBasePath Methode">
+    <HelpKINode Title="BasicAppSettings.SetRegistryBasePath Methode " Url="html/5a7bbfaa-d19c-4b4a-9f24-e49b06457751.htm" />
+    <HelpKINode Title="RegAccess.SetRegistryBasePath Methode " Url="html/6f32db82-156f-b20c-6abf-ed5b9657c472.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SettingsAccess Klasse">
+    <HelpKINode Title="SettingsAccess Klasse" Url="html/b07c1dff-5d83-ef97-e16d-76652e2224a4.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/776f719b-de54-bfb9-aade-d888ef3c9b81.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/4489fd0f-d5a5-a3f4-a3b7-112e92db5f66.htm" />
+    <HelpKINode Title="Methoden" Url="html/9a672ab2-313a-90c2-2b22-68f140de0b0f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SettingsAccess.Description Eigenschaft" Url="html/fc2c890c-2fe3-d4bf-b9e5-bcb4c88d11c9.htm" />
+  <HelpKINode Title="SettingsAccess.GetStringValue Methode" Url="html/dbaba3b2-e979-a441-c449-d512a309c465.htm" />
+  <HelpKINode Title="SettingsAccess.GetStringValues Methode" Url="html/92eee750-4259-d3ad-2e60-8415787f45ae.htm" />
+  <HelpKINode Title="SettingsAccess.SettingsAccess Konstruktor" Url="html/4489fd0f-d5a5-a3f4-a3b7-112e92db5f66.htm" />
+  <HelpKINode Title="SettingsAccessor Eigenschaft" Url="html/417fa11e-718d-3e2e-245b-665726af0692.htm" />
+  <HelpKINode Title="SevenGetZipEntryInfos Methode" Url="html/87cce89b-4145-cddb-7144-3962da3a8244.htm" />
+  <HelpKINode Title="SevenIsZip Methode" Url="html/845649ba-3026-b956-e757-c27810406f93.htm" />
+  <HelpKINode Title="SevenUnzipAllArchives Methode" Url="html/43059f49-0b01-5965-d71d-2f8e8b6240e6.htm" />
+  <HelpKINode Title="SevenUnZipArchive Methode" Url="html/8c58d1de-ed4c-7f5d-c853-0d83a80bfd7e.htm" />
+  <HelpKINode Title="SevenZipAccessorInit Methode" Url="html/72b49fd5-6c22-e32d-9026-955495c38c8d.htm" />
+  <HelpKINode Title="SevenZipDirectory Methode" Url="html/77181b95-2f2b-9cd8-97aa-d89326145659.htm" />
+  <HelpKINode Title="SevenZipDirectoryAtOnce Methode" Url="html/08171445-0080-60ec-7d3b-e106bf10db7d.htm" />
+  <HelpKINode Title="SevenZipFiles Methode" Url="html/962cf2e5-f47c-e2ab-a01d-4df305438fce.htm" />
+  <HelpKINode Title="SingleInstance Eigenschaft" Url="html/852ff74b-4a21-66bc-a435-1863f1290eeb.htm" />
+  <HelpKINode Title="Size Eigenschaft" Url="html/24cc9166-6b77-6bdd-ebb7-51ad78c1faaf.htm" />
+  <HelpKINode Title="StandardCsvColumnDelimiter Feld" Url="html/2f9b2e16-a7f0-692a-2f5a-69e5246bac8c.htm" />
+  <HelpKINode Title="StandardIndent Eigenschaft" Url="html/8048d9f6-da5b-7a69-46ce-96e2d5a0bd8f.htm" />
+  <HelpKINode Title="Start Methode">
+    <HelpKINode Title="FileWatcherTrigger.Start Methode " Url="html/3ae947d1-c67e-a42e-37f4-a018cd4967c9.htm" />
+    <HelpKINode Title="ProgressTimer.Start Methode " Url="html/3e67840d-a6b2-c77c-dbfa-b52fd8981c3b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StartThread Methode" Url="html/d3eec47f-e22f-642f-0f20-869baa92651a.htm" />
+  <HelpKINode Title="Statistics Enumerationsmember" Url="html/df95802a-a5eb-f85c-7e70-be764b2ce9ef.htm" />
+  <HelpKINode Title="Statistics Klasse">
+    <HelpKINode Title="Statistics Klasse" Url="html/4d933226-7a5c-0909-9b7c-e56973707024.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/410644fc-6fd3-de4b-5eb8-e2d2294b631a.htm" />
+    <HelpKINode Title="Methoden" Url="html/b61187e6-a4dd-399a-abca-f26d16e8ef2e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Statistics.Inc Methode" Url="html/36d111ae-d74c-d36f-e8f6-b7f2f5a09b20.htm" />
+  <HelpKINode Title="Statistics.IsTimerTriggered Eigenschaft" Url="html/0e801c37-7290-dc58-8489-3146e7b728be.htm" />
+  <HelpKINode Title="Statistics.LoggingTriggerCounter Eigenschaft" Url="html/7ed896b7-0d05-16aa-ca7e-7746143c4961.htm" />
+  <HelpKINode Title="Statistics.RegexFilter Eigenschaft" Url="html/f5038aad-b711-8765-7d7e-a0bbd8e75108.htm" />
+  <HelpKINode Title="Statistics.Reset Methode" Url="html/9c1dc6d4-8fde-2cb9-0ff1-920dfd2d086a.htm" />
+  <HelpKINode Title="Statistics.Stop Methode" Url="html/9166cbc3-80f3-32d2-9eb7-c8b355d83c99.htm" />
+  <HelpKINode Title="StatisticsFile Eigenschaft" Url="html/1fb4f070-bd24-6ace-f498-65e4c2feb094.htm" />
+  <HelpKINode Title="StatisticsFileRegexFilter Eigenschaft" Url="html/ebb9d397-3512-dca2-7875-aa9b36db4d1f.htm" />
+  <HelpKINode Title="Stop Methode">
+    <HelpKINode Title="FileWatcherTrigger.Stop Methode " Url="html/880a5922-7bdd-2901-ce11-8e9a0300ae9d.htm" />
+    <HelpKINode Title="Statistics.Stop Methode " Url="html/9166cbc3-80f3-32d2-9eb7-c8b355d83c99.htm" />
+  </HelpKINode>
+  <HelpKINode Title="String2InfoType Methode" Url="html/4dc20015-9466-dc0c-ed60-facc9cbe6fe3.htm" />
+  <HelpKINode Title="String2InfoTypeArray Methode" Url="html/9c0b334e-4a8a-c260-7aa6-9e81ed7e7027.htm" />
+  <HelpKINode Title="StringToSecureString Methode" Url="html/b8469a4d-434d-bdb1-97f8-ff98131b7c62.htm" />
+  <HelpKINode Title="Tail Eigenschaft" Url="html/726d5187-fd97-8bc8-9629-90d5f93df7a9.htm" />
+  <HelpKINode Title="TaskProgressChanged Ereignis" Url="html/f6e1325f-dc00-25cc-c74d-3e5c5df68d10.htm" />
+  <HelpKINode Title="TaskProgressFinished Ereignis" Url="html/0679e0e7-2922-d04a-c4d2-99f40691d9b8.htm" />
+  <HelpKINode Title="TaskWorker Klasse">
+    <HelpKINode Title="TaskWorker Klasse" Url="html/3fc0572f-edf7-af9f-764d-6cc86b10335a.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/ca28c5f8-9d52-0f6e-8317-4e0d272e2c15.htm" />
+    <HelpKINode Title="Ereignisse" Url="html/05e7d518-7c78-f841-2364-c74981af717f.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/f2c6024a-bb1e-e53c-a9e3-35f60cefaf9b.htm" />
+    <HelpKINode Title="Methoden" Url="html/048147de-e8e8-d566-4e1f-0f1b32bf4315.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TaskWorker.BreakTask Methode" Url="html/c3cb1b82-0d93-1b0c-24bd-1bcfa2856ace.htm" />
+  <HelpKINode Title="TaskWorker.ContinueTask Methode" Url="html/484a5a95-6e2f-dc39-e588-4e330b2be531.htm" />
+  <HelpKINode Title="TaskWorker.Dispose Methode" Url="html/02c0d8c0-862e-5cbd-fe9c-c5ef0844728a.htm" />
+  <HelpKINode Title="TaskWorker.Finalize Methode" Url="html/25c9ea8b-4f18-9d3a-e5e0-d5ba2cc470e0.htm" />
+  <HelpKINode Title="TaskWorker.HaltTask Methode" Url="html/2fe4c7f4-963b-85c0-6567-2a3eeb1dcb41.htm" />
+  <HelpKINode Title="TaskWorker.OnTaskProgressChanged Methode" Url="html/fde2cc04-91fd-7730-9bcb-d5fcec174ab1.htm" />
+  <HelpKINode Title="TaskWorker.OnTaskProgressFinished Methode" Url="html/a0ac5ec5-fa5a-3351-262c-2ea8eab04593.htm" />
+  <HelpKINode Title="TaskWorker.RunTask Methode" Url="html/20c1781d-5543-9d8b-e886-0304dddd68c1.htm" />
+  <HelpKINode Title="TaskWorker.TaskProgressChanged Ereignis" Url="html/f6e1325f-dc00-25cc-c74d-3e5c5df68d10.htm" />
+  <HelpKINode Title="TaskWorker.TaskProgressFinished Ereignis" Url="html/0679e0e7-2922-d04a-c4d2-99f40691d9b8.htm" />
+  <HelpKINode Title="TaskWorker.TaskWorker Konstruktor" Url="html/f2c6024a-bb1e-e53c-a9e3-35f60cefaf9b.htm" />
+  <HelpKINode Title="TaskWorker.WaitForTask Methode" Url="html/615b2e1b-fe0a-f937-1580-355b90510a5c.htm" />
+  <HelpKINode Title="TaskWorker.WorkerStatus Eigenschaft" Url="html/741baded-9c4a-d12f-c88a-2abcb4767b3c.htm" />
+  <HelpKINode Title="TaskWorkerStatus Enumeration" Url="html/d9f04c8b-dab6-2370-1a45-2f4b811f3339.htm" />
+  <HelpKINode Title="TempDirectory Eigenschaft" Url="html/14500942-8840-ad09-4c8c-fc6fb85c47f5.htm" />
+  <HelpKINode Title="Threader Klasse">
+    <HelpKINode Title="Threader Klasse" Url="html/7db2576e-8626-9891-ab05-fda59fc565fe.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/7199e2bc-55f2-d05a-2e6c-f5aa573ea83a.htm" />
+    <HelpKINode Title="Methoden" Url="html/686937ac-283c-09fd-e4f6-d304b5e050f9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Threader.Abort Methode" Url="html/ff72484c-aa64-5268-e783-039b1dc8c5bd.htm" />
+  <HelpKINode Title="Threader.AbortAll Methode" Url="html/b0399ff6-8c94-a504-7673-3adb24c659b8.htm" />
+  <HelpKINode Title="Threader.AbortAllWithThreadAbortException Methode" Url="html/d9367d8b-aedb-f156-7161-ee8c7d9da62f.htm" />
+  <HelpKINode Title="Threader.AbortPending Eigenschaft" Url="html/7dcb10dc-a2a9-99b9-6617-5e1b15546e13.htm" />
+  <HelpKINode Title="Threader.AbortWithThreadAbortException Methode" Url="html/96b7d81a-df3e-de26-276c-828a81bb2627.htm" />
+  <HelpKINode Title="Threader.ConsumeThreaderException Methode" Url="html/72ce6876-4c8f-28e3-6eed-a49c936c1205.htm" />
+  <HelpKINode Title="Threader.Dispose Methode" Url="html/6ced93b8-79cd-b948-5185-8d9a05b1a00d.htm" />
+  <HelpKINode Title="Threader.Finalize Methode" Url="html/ed2eaee1-07ec-1e5d-3a46-fe7d44b6d4c8.htm" />
+  <HelpKINode Title="Threader.GetAllThreaderExceptions Methode" Url="html/06fa9979-0cbb-1a71-3c5a-f042e3b869d7.htm" />
+  <HelpKINode Title="Threader.GetNewThreader Methode" Url="html/691819a6-967d-f64e-fafc-18b29179b703.htm" />
+  <HelpKINode Title="Threader.GetThisThreader Methode" Url="html/c095b6ca-ce93-a9ed-d578-4a291520554b.htm" />
+  <HelpKINode Title="Threader.InstanceId Eigenschaft" Url="html/b1132aee-052f-c871-4fb6-fcff4d1d9caf.htm" />
+  <HelpKINode Title="Threader.IsEmptyAllThreaderExceptions Methode" Url="html/dcb22673-fba5-326c-bf20-2485c0441eb5.htm" />
+  <HelpKINode Title="Threader.LastReturnObject Eigenschaft" Url="html/856cd8b0-6c02-9ef1-08f8-5380e7d4aa24.htm" />
+  <HelpKINode Title="Threader.Reset Methode" Url="html/02a36d26-a01f-9ffa-757f-66b52ed395c6.htm" />
+  <HelpKINode Title="Threader.RunningCounter Eigenschaft" Url="html/7753411b-28c7-acd7-e3df-57ba7a1e23ad.htm" />
+  <HelpKINode Title="Threader.StartThread Methode" Url="html/d3eec47f-e22f-642f-0f20-869baa92651a.htm" />
+  <HelpKINode Title="Threader.ThreadException Eigenschaft" Url="html/79242efc-efdb-91fa-6c56-4980e608d503.htm" />
+  <HelpKINode Title="Threader.ThrowThreaderException Methode" Url="html/ff4277f6-b76f-d64b-20a7-103b24002461.htm" />
+  <HelpKINode Title="Threader.WaitForAllThreads Methode" Url="html/7410e3db-f32f-695c-80e8-a34b8ece6b62.htm" />
+  <HelpKINode Title="Threader.WaitForThread Methode" Url="html/75631abe-6481-732e-c41b-8ddef35cd436.htm" />
+  <HelpKINode Title="ThreaderException Klasse">
+    <HelpKINode Title="ThreaderException Klasse" Url="html/e292727e-1201-c523-35e7-87dfdbaecf92.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/d49d1aa4-2a9c-ff29-d231-b06a5a9b8b60.htm" />
+    <HelpKINode Title="Methoden" Url="html/d3ff52e0-9126-a3d7-15a4-f9efa76ba0d1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ThreaderException.GetObjectData Methode" Url="html/8ab9b128-e95f-6ac2-ca8b-5d5eca6c683e.htm" />
+  <HelpKINode Title="ThreaderException.ThreaderException Konstruktor" Url="html/d49d1aa4-2a9c-ff29-d231-b06a5a9b8b60.htm" />
+  <HelpKINode Title="ThreaderException.ToString Methode" Url="html/b9a30a7f-7696-6341-236a-8e498da75c91.htm" />
+  <HelpKINode Title="ThreadException Eigenschaft" Url="html/79242efc-efdb-91fa-6c56-4980e608d503.htm" />
+  <HelpKINode Title="ThreadInfos Eigenschaft" Url="html/ebf0c867-98e6-6052-bfaf-e9ec94d8bb72.htm" />
+  <HelpKINode Title="ThreadInfos Klasse">
+    <HelpKINode Title="ThreadInfos Klasse" Url="html/e665740c-8a26-a526-7f6c-6646c9258b6b.htm" />
+    <HelpKINode Title="Methoden" Url="html/c2ffd109-309b-02c4-fa27-224e1b5d4667.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ThreadInfos.GetThreadInfos Methode" Url="html/3c891713-7827-8d85-628e-9594cef4d92a.htm" />
+  <HelpKINode Title="ThreadLocker Klasse">
+    <HelpKINode Title="ThreadLocker Klasse" Url="html/5a39f555-c3e4-3587-14e9-e82e28966f55.htm" />
+    <HelpKINode Title="Methoden" Url="html/9ede2910-b51c-1875-f7fa-c6a85bfeda7d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ThreadLocker.LockNameGlobal Methode" Url="html/35a382a8-4efd-fa61-bb85-89f82ac525fc.htm" />
+  <HelpKINode Title="ThreadLocker.TryLockNameGlobal Methode" Url="html/c9bb5bb2-97dc-9d2e-4239-829d24644488.htm" />
+  <HelpKINode Title="ThreadLocker.UnlockNameGlobal Methode" Url="html/fefa2a85-1ab2-217b-10ea-e1ce737a1afc.htm" />
+  <HelpKINode Title="ThreadWorkerHandler Delegat" Url="html/f26c58e3-7768-81d6-59a3-7829c44afcba.htm" />
+  <HelpKINode Title="ThrowThreaderException Methode" Url="html/ff4277f6-b76f-d64b-20a7-103b24002461.htm" />
+  <HelpKINode Title="Timestamp Eigenschaft">
+    <HelpKINode Title="InfoArgs.Timestamp Eigenschaft " Url="html/fd0c0a26-99b0-4b8b-100c-bf136eec06b6.htm" />
+    <HelpKINode Title="TriggerEvent.Timestamp Eigenschaft " Url="html/5ee82e3a-019b-3279-b69b-da4fd065f390.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToString Methode">
+    <HelpKINode Title="ExtendedException.ToString Methode " Url="html/66422b0e-0419-7ecb-ef1c-46d6a821a2d1.htm" />
+    <HelpKINode Title="ThreaderException.ToString Methode " Url="html/b9a30a7f-7696-6341-236a-8e498da75c91.htm" />
+    <HelpKINode Title="TriggerEvent.ToString Methode " Url="html/ff7537ec-27f2-a380-f1b3-9b8daaee32d2.htm" />
+    <HelpKINode Title="ZippedFileInfo.ToString Methode " Url="html/7a1a3ac9-7f25-34bf-633e-1654a9773c76.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Traverse Methode" Url="html/333c1e65-49e8-61ad-56a7-7c58d49c1b56.htm" />
+  <HelpKINode Title="traverse Methode" Url="html/d1ac0751-94f4-59a4-762e-0460a2cd215f.htm" />
+  <HelpKINode Title="TriggerEvent Klasse">
+    <HelpKINode Title="TriggerEvent Klasse" Url="html/dd666a16-c4bd-c7ca-67d3-5112912111a8.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/39af8851-0354-458f-f957-279ddf588741.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/b8c32ed8-74dd-db74-67fe-55fafc2eb38b.htm" />
+    <HelpKINode Title="Methoden" Url="html/ca554ca7-c378-3140-d370-21f1b5a68a7c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TriggerEvent.ChangeInfo Eigenschaft" Url="html/6f457f8f-baed-9fa4-100c-e8fc514f85a9.htm" />
+  <HelpKINode Title="TriggerEvent.Equals Methode" Url="html/66113188-8fec-93bc-531a-71365678f71c.htm" />
+  <HelpKINode Title="TriggerEvent.FullPath Eigenschaft" Url="html/335709b5-250b-e1ba-ec56-516700e393cb.htm" />
+  <HelpKINode Title="TriggerEvent.GetHashCode Methode" Url="html/d3622105-b4d6-b4a3-a39e-d760b2bbe654.htm" />
+  <HelpKINode Title="TriggerEvent.Timestamp Eigenschaft" Url="html/5ee82e3a-019b-3279-b69b-da4fd065f390.htm" />
+  <HelpKINode Title="TriggerEvent.ToString Methode" Url="html/ff7537ec-27f2-a380-f1b3-9b8daaee32d2.htm" />
+  <HelpKINode Title="TriggerEvent.TriggerEvent Konstruktor" Url="html/b8c32ed8-74dd-db74-67fe-55fafc2eb38b.htm" />
+  <HelpKINode Title="TriggerInfo Eigenschaft" Url="html/280cf358-d672-66e4-9f70-abdf2133c7c2.htm" />
+  <HelpKINode Title="TryLockNameGlobal Methode" Url="html/c9bb5bb2-97dc-9d2e-4239-829d24644488.htm" />
+  <HelpKINode Title="Unchain Methode" Url="html/92dd3229-cfc4-364c-edf0-020963010f52.htm" />
+  <HelpKINode Title="Unexpected Feld" Url="html/c8f295d2-fc56-9d0d-6ab8-69613b3fcb55.htm" />
+  <HelpKINode Title="UnicodeHexcodeToChar Methode" Url="html/edb94bf9-dd5e-e568-d4fc-3e4eeb5966c4.htm" />
+  <HelpKINode Title="UnlockNameGlobal Methode" Url="html/fefa2a85-1ab2-217b-10ea-e1ce737a1afc.htm" />
+  <HelpKINode Title="UnregisterInfoReceiver Methode">
+    <HelpKINode Title="IInfoSource.UnregisterInfoReceiver Methode " Url="html/99d5e325-0d2b-bda2-aa72-71faadb61ecd.htm" />
+    <HelpKINode Title="InfoController.UnregisterInfoReceiver Methode " Url="html/c08356cc-a77f-6915-1990-9423015a5f58.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UnregisterKey Methode">
+    <HelpKINode Title="AppEnvReader.UnregisterKey Methode " Url="html/01810d56-4080-16bc-137b-7f2157fc585b.htm" />
+    <HelpKINode Title="AppSettingsRegistry.UnregisterKey Methode " Url="html/59d0a28f-b55d-fa6f-8b9b-0ece56a32c7a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UnregisterStringValueGetter Methode" Url="html/6e61cd67-dd30-d93c-c078-eb4ea406b505.htm" />
+  <HelpKINode Title="UnzipAllArchives Methode" Url="html/a3fecffb-8f79-56ca-3927-7cf5d2432e24.htm" />
+  <HelpKINode Title="UnZipArchive Methode" Url="html/ef4306a9-161b-4c00-830e-a7dcfcdd68e3.htm" />
+  <HelpKINode Title="UnZipArchiveFiles Methode" Url="html/bdccef77-1208-86d7-20bc-f921c58bf5c6.htm" />
+  <HelpKINode Title="UnZipArchiveICSharp Methode" Url="html/ea105184-257a-afbb-8c0a-90e3669a6cff.htm" />
+  <HelpKINode Title="UpdateCanExecuteState Methode">
+    <HelpKINode Title="IRelayCommand.UpdateCanExecuteState Methode " Url="html/18de243e-3e39-b402-2da9-7db8e9669160.htm" />
+    <HelpKINode Title="RelayCommand.UpdateCanExecuteState Methode " Url="html/5cd6025e-8dd9-6aa8-bfc7-86862e9d7d5a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UserDomainName Eigenschaft" Url="html/d3195980-4c1e-e958-adc9-7bd34ccaba88.htm" />
+  <HelpKINode Title="UserName Eigenschaft" Url="html/49e5a9b1-545d-ba82-a6c1-1c601b726fd6.htm" />
+  <HelpKINode Title="UserSettingsAccessor Eigenschaft" Url="html/b5ed6435-9591-595b-a6cc-b75a7e57e0ed.htm" />
+  <HelpKINode Title="Value Eigenschaft" Url="html/b0049e0c-d996-6469-c5da-3d4b9f051840.htm" />
+  <HelpKINode Title="VerifyCalledOnUIThread Methode" Url="html/8a263827-e7e1-57aa-14bf-fad3e256d3b3.htm" />
+  <HelpKINode Title="VerifyPropertyName Methode" Url="html/12bbce51-f7ed-8605-a311-7cabe84a79d7.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/8c48786f-b1f8-4e66-80c3-fb3d5ad2400b.htm" />
+    <HelpKINode Title="1.0.1.0" Url="html/DB136842-0FD3-4DB8-A4A5-830C932CE09F.htm" />
+    <HelpKINode Title="history" Url="html/32a10bcf-b776-4758-aab2-b797c3a29a48.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ViewerAsWrapper Klasse">
+    <HelpKINode Title="ViewerAsWrapper Klasse" Url="html/9e03340e-73cc-0a06-db44-39786ee06048.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/ffe9e88d-5011-2c26-77c5-306351e4b24a.htm" />
+    <HelpKINode Title="Methoden" Url="html/d1235886-82a7-6fdd-2857-4c5b4a06a758.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ViewerAsWrapper.HandleInfo Methode" Url="html/0a902638-d02f-6928-0964-fdf268b2253c.htm" />
+  <HelpKINode Title="ViewerAsWrapper.ViewerAsWrapper Konstruktor" Url="html/ffe9e88d-5011-2c26-77c5-306351e4b24a.htm" />
+  <HelpKINode Title="WaitForAllThreads Methode" Url="html/7410e3db-f32f-695c-80e8-a34b8ece6b62.htm" />
+  <HelpKINode Title="WaitForTask Methode" Url="html/615b2e1b-fe0a-f937-1580-355b90510a5c.htm" />
+  <HelpKINode Title="WaitForThread Methode" Url="html/75631abe-6481-732e-c41b-8ddef35cd436.htm" />
+  <HelpKINode Title="Warn Enumerationsmember" Url="html/df95802a-a5eb-f85c-7e70-be764b2ce9ef.htm" />
+  <HelpKINode Title="Weight Eigenschaft" Url="html/1b8c1c66-a6ca-6e87-0f55-cfcd3719621c.htm" />
+  <HelpKINode Title="Welcome" Url="html/2f1b6d15-2181-4615-8bd5-572589ae5d72.htm" />
+  <HelpKINode Title="WorkerStatus Eigenschaft" Url="html/741baded-9c4a-d12f-c88a-2abcb4767b3c.htm" />
+  <HelpKINode Title="WorkingArea Eigenschaft" Url="html/fafcca6a-9fc2-3eb7-b35f-edfd31edc69f.htm" />
+  <HelpKINode Title="WorkingDirectory Eigenschaft" Url="html/099e54a3-54b4-b096-863e-1d5bde455623.htm" />
+  <HelpKINode Title="WorkingDirectoryCreated Eigenschaft" Url="html/66b2359e-eeba-64e5-7ccf-59823d50d57c.htm" />
+  <HelpKINode Title="WorkingRoutine Feld" Url="html/15cdcd0a-b389-7219-ffb5-01997e42ad42.htm" />
+  <HelpKINode Title="WriteLog Methode">
+    <HelpKINode Title="Logger.WriteLog Methode " Url="html/390f603b-9fbf-8234-1b8f-e1bad1fb74ed.htm" />
+    <HelpKINode Title="LoggerBase.WriteLog Methode " Url="html/3a1f8097-7b36-96d0-d436-205898d60b0b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlAccess Klasse">
+    <HelpKINode Title="XmlAccess Klasse" Url="html/a96e0d21-df90-5094-cd48-a78a6cd7ec38.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/66456968-f296-a9b4-95cb-7404a132e473.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/e4f97952-1fb0-b5c0-90e3-80c7b626fdbd.htm" />
+    <HelpKINode Title="Methoden" Url="html/e0094e1b-089d-2698-76df-272eb954a60e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlAccess.Description Eigenschaft" Url="html/f85f704b-1568-06c6-20b4-9dd8be34dc95.htm" />
+  <HelpKINode Title="XmlAccess.GetStringValue Methode" Url="html/a91a8b69-1b91-f4dd-e847-f3c44c69cba9.htm" />
+  <HelpKINode Title="XmlAccess.GetStringValues Methode" Url="html/56ce78ef-03c4-1e2f-5bff-18f79e6cd881.htm" />
+  <HelpKINode Title="XmlAccess.XmlAccess Konstruktor" Url="html/e4f97952-1fb0-b5c0-90e3-80c7b626fdbd.htm" />
+  <HelpKINode Title="XmlAccessException Klasse">
+    <HelpKINode Title="XmlAccessException Klasse" Url="html/38e95241-998e-d5ba-6fde-c7dc4fbb5de6.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/118580cf-c782-87e7-2905-789ac50829e3.htm" />
+    <HelpKINode Title="Methoden" Url="html/a025b22b-91b1-5229-6e5d-dbe34189b290.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlAccessException.GetObjectData Methode" Url="html/041119e4-7bd4-78fd-0338-d2f1e6d9b1e5.htm" />
+  <HelpKINode Title="XmlAccessException.XmlAccessException Konstruktor" Url="html/118580cf-c782-87e7-2905-789ac50829e3.htm" />
+  <HelpKINode Title="XMLSerializationUtility Klasse">
+    <HelpKINode Title="XMLSerializationUtility Klasse" Url="html/5ddf567e-ecf0-a71f-5099-d72101b015aa.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/58437a6c-651f-37d5-a315-c53ce331d154.htm" />
+    <HelpKINode Title="Methoden" Url="html/13e7aef9-6280-0150-db2c-52fecf698a46.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XMLSerializationUtility.DeserializeObject Methode" Url="html/ef731ed1-d4fb-bb08-37ef-5feffd9a7752.htm" />
+  <HelpKINode Title="XMLSerializationUtility.DeserializeObjectFromBase64 Methode" Url="html/aca2957c-f4c3-7b61-07d5-545e8d0d73b6.htm" />
+  <HelpKINode Title="XMLSerializationUtility.SerializeObject Methode" Url="html/7d56462c-203f-7640-ebd4-10f155ac135c.htm" />
+  <HelpKINode Title="XMLSerializationUtility.SerializeObjectToBase64 Methode" Url="html/cbf26907-b0d1-1873-0501-daa137cfe28b.htm" />
+  <HelpKINode Title="XMLSerializationUtility.XMLSerializationUtility Konstruktor" Url="html/58437a6c-651f-37d5-a315-c53ce331d154.htm" />
+  <HelpKINode Title="ZipAccess Klasse">
+    <HelpKINode Title="ZipAccess Klasse" Url="html/6b115ae3-be5a-6043-0c90-668d5e771232.htm" />
+    <HelpKINode Title="Ereignisse" Url="html/686625af-5ca2-71d9-2da4-a6ce2d719337.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/ae12798a-2bef-424f-c359-7d876c2d5872.htm" />
+    <HelpKINode Title="Methoden" Url="html/cbabb9e0-ca1b-02f2-15fe-32e5261a0052.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ZipAccess.Abort Methode" Url="html/adca2137-30cd-20d8-2df7-dd19038fd729.htm" />
+  <HelpKINode Title="ZipAccess.dispose Methode" Url="html/09b33e13-b5ec-8f1b-276b-5b1db5bc5740.htm" />
+  <HelpKINode Title="ZipAccess.Dispose Methode" Url="html/53a117af-2e1f-2cd4-a216-d0326980b65c.htm" />
+  <HelpKINode Title="ZipAccess.ExtendedZipProgressChanged Ereignis" Url="html/3d4192a1-35a3-20c4-11d1-3a3b46e4d36e.htm" />
+  <HelpKINode Title="ZipAccess.Finalize Methode" Url="html/4482ce66-12b1-fba5-0286-c12a9d2efd46.htm" />
+  <HelpKINode Title="ZipAccess.GenerateFileList Methode" Url="html/b51dfeb0-86a6-2402-42ef-fbab6df8eb02.htm" />
+  <HelpKINode Title="ZipAccess.GetZipEntryFilePathes Methode" Url="html/23d470c8-5b19-253b-98c4-80c4e32e9abf.htm" />
+  <HelpKINode Title="ZipAccess.GetZipEntryList Methode" Url="html/d96fe743-83b8-842d-df3f-83a14d633dd3.htm" />
+  <HelpKINode Title="ZipAccess.GetZipEntryListICSharp Methode" Url="html/995c52d5-7c8f-3e2f-e490-615f8076a2a6.htm" />
+  <HelpKINode Title="ZipAccess.IcsUnzipFirstDumpToFile Methode" Url="html/af9312b3-4d9a-3fac-09b5-56e9b4c07a37.htm" />
+  <HelpKINode Title="ZipAccess.IsZip Methode" Url="html/3fbe5ec7-1c6c-376b-b339-115aacf1527b.htm" />
+  <HelpKINode Title="ZipAccess.IsZipICSharp Methode" Url="html/49ee2161-378c-244d-9c05-5ea5ec6e8bf5.htm" />
+  <HelpKINode Title="ZipAccess.MSGetZipEntryList Methode" Url="html/bd6d1710-33bb-a519-6ad4-6d9a9ac11409.htm" />
+  <HelpKINode Title="ZipAccess.MSZipUnZipArchive Methode" Url="html/c0cda352-6bfc-e35f-ee00-70d00a9fb099.htm" />
+  <HelpKINode Title="ZipAccess.SevenGetZipEntryInfos Methode" Url="html/87cce89b-4145-cddb-7144-3962da3a8244.htm" />
+  <HelpKINode Title="ZipAccess.SevenIsZip Methode" Url="html/845649ba-3026-b956-e757-c27810406f93.htm" />
+  <HelpKINode Title="ZipAccess.SevenUnzipAllArchives Methode" Url="html/43059f49-0b01-5965-d71d-2f8e8b6240e6.htm" />
+  <HelpKINode Title="ZipAccess.SevenUnZipArchive Methode" Url="html/8c58d1de-ed4c-7f5d-c853-0d83a80bfd7e.htm" />
+  <HelpKINode Title="ZipAccess.SevenZipAccessorInit Methode" Url="html/72b49fd5-6c22-e32d-9026-955495c38c8d.htm" />
+  <HelpKINode Title="ZipAccess.SevenZipDirectory Methode" Url="html/77181b95-2f2b-9cd8-97aa-d89326145659.htm" />
+  <HelpKINode Title="ZipAccess.SevenZipDirectoryAtOnce Methode" Url="html/08171445-0080-60ec-7d3b-e106bf10db7d.htm" />
+  <HelpKINode Title="ZipAccess.SevenZipFiles Methode" Url="html/962cf2e5-f47c-e2ab-a01d-4df305438fce.htm" />
+  <HelpKINode Title="ZipAccess.UnzipAllArchives Methode" Url="html/a3fecffb-8f79-56ca-3927-7cf5d2432e24.htm" />
+  <HelpKINode Title="ZipAccess.UnZipArchive Methode" Url="html/ef4306a9-161b-4c00-830e-a7dcfcdd68e3.htm" />
+  <HelpKINode Title="ZipAccess.UnZipArchiveFiles Methode" Url="html/bdccef77-1208-86d7-20bc-f921c58bf5c6.htm" />
+  <HelpKINode Title="ZipAccess.UnZipArchiveICSharp Methode" Url="html/ea105184-257a-afbb-8c0a-90e3669a6cff.htm" />
+  <HelpKINode Title="ZipAccess.ZipAccess Konstruktor" Url="html/ae12798a-2bef-424f-c359-7d876c2d5872.htm" />
+  <HelpKINode Title="ZipAccess.ZipDirectory Methode" Url="html/0ee86187-3df3-c66e-93be-aeb62fffb277.htm" />
+  <HelpKINode Title="ZipAccess.ZipDirectoryICSharp Methode" Url="html/3068d4ce-6256-7d2a-1fca-fb11ee44caf6.htm" />
+  <HelpKINode Title="ZipAccess.ZipProgressChanged Ereignis" Url="html/135f8dea-6e90-2eaa-9d63-8ba845bbcc1b.htm" />
+  <HelpKINode Title="ZipAccess.ZipProgressFinished Ereignis" Url="html/43958d46-c351-4d8e-1f0f-c1091af2c37f.htm" />
+  <HelpKINode Title="ZipDirectory Methode" Url="html/0ee86187-3df3-c66e-93be-aeb62fffb277.htm" />
+  <HelpKINode Title="ZipDirectoryICSharp Methode" Url="html/3068d4ce-6256-7d2a-1fca-fb11ee44caf6.htm" />
+  <HelpKINode Title="ZippedFileInfo Klasse">
+    <HelpKINode Title="ZippedFileInfo Klasse" Url="html/37926cf9-7c17-7f48-eeec-c3117de2220f.htm" />
+    <HelpKINode Title="Eigenschaften" Url="html/a0695967-19fb-8cc7-9f2f-e1be6a2a1601.htm" />
+    <HelpKINode Title="Konstruktor" Url="html/492e97c9-4a01-8645-42e1-13feced3eb74.htm" />
+    <HelpKINode Title="Methoden" Url="html/b67bd786-40b7-86f6-da37-6112c83cc6ed.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ZippedFileInfo.FilePath Eigenschaft" Url="html/18667f9c-9781-215d-7f32-db9af0745dd6.htm" />
+  <HelpKINode Title="ZippedFileInfo.IsDirectory Eigenschaft" Url="html/a3e80829-16f9-909a-c6ba-3f24fedc1dc7.htm" />
+  <HelpKINode Title="ZippedFileInfo.LastWriteTime Eigenschaft" Url="html/bd8e39d5-8569-ff6d-5590-151e13afbe22.htm" />
+  <HelpKINode Title="ZippedFileInfo.Size Eigenschaft" Url="html/24cc9166-6b77-6bdd-ebb7-51ad78c1faaf.htm" />
+  <HelpKINode Title="ZippedFileInfo.ToString Methode" Url="html/7a1a3ac9-7f25-34bf-633e-1654a9773c76.htm" />
+  <HelpKINode Title="ZippedFileInfo.ZippedFileInfo Konstruktor" Url="html/492e97c9-4a01-8645-42e1-13feced3eb74.htm" />
+  <HelpKINode Title="ZipProgressChanged Ereignis" Url="html/135f8dea-6e90-2eaa-9d63-8ba845bbcc1b.htm" />
+  <HelpKINode Title="ZipProgressFinished Ereignis" Url="html/43958d46-c351-4d8e-1f0f-c1091af2c37f.htm" />
+</HelpKI>

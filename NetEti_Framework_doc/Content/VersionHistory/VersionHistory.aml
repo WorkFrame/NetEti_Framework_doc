@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<topic id="32a10bcf-b776-4758-aab2-b797c3a29a48" revisionNumber="1">
+	<developerConceptualDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<introduction>
+			<para>Hier können die Änderungen in den verschiedenen Versionen des NetEti-Frameworks eingesehen werden.</para>
+		</introduction>
+
+		<section>
+			<title>Versionen</title>
+			<content>
+				<para>Wählen Sie eine Version unten aus, um deren Änderungsbeschreibung zu sehen.</para>
+
+				<list class="bullet">
+          <listItem>
+            <para>
+              <link xlink:href="DB136842-0FD3-4DB8-A4A5-830C932CE09F" />
+            </para>
+          </listItem>
+
+          <listItem>
+            <para>
+              <link xlink:href="8c48786f-b1f8-4e66-80c3-fb3d5ad2400b" />
+            </para>
+          </listItem>
+
+          <!--listItem>
+						<para>[TODO: Add links to each specific version page]</para>
+					</listItem-->
+
+				</list>
+
+			</content>
+		</section>
+
+		<relatedTopics>
+			<link xlink:href="2f1b6d15-2181-4615-8bd5-572589ae5d72" />
+		</relatedTopics>
+
+	</developerConceptualDocument>
+</topic>
